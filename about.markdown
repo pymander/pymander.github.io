@@ -20,3 +20,5 @@ For many years, I have been interested in **digital privacy and security**.
   emails, websites, and files. [Learn more.](/information-security/)
 
 My rates for **non-profit organizations** are very reasonable.
+
+Are you interested in learning more? [Contact me!](/contact/)

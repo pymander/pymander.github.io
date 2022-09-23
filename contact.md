@@ -7,14 +7,16 @@ layout: page
 guid: 'http://arnesonium.com/?page_id=21'
 ---
 
-<img src="http://arnesonium.com/wp-content/uploads/2014/09/boy-63777_640-300x279.jpg" alt="Boy with telegraph" width="300" height="279" class="alignright size-medium wp-image-154" />I love a good challenge. Let's work together to bring your project to completion. Contact me via the information below.
+<img src="http://arnesonium.com/wp-content/uploads/2014/09/boy-63777_640-300x279.jpg#right" alt="Boy with telegraph" width="300" height="279" class="alignright size-medium wp-image-154" />
 
-<strong>Erik L. Arneson</strong>
-P.O. Box 42672
-Portland, OR 97242
+**I love a good challenge.** Let's work together to bring your project to completion. Contact me via the information below.
+
+**Erik L. Arneson**<br>
+P.O. Box 42672<br>
+Portland, OR 97242<br>
 Phone: +1 (541) 291-9776
 
-My OpenPGP key can be <a href="https://bit.ly/2018ArnesonKey">downloaded here</a>. Like any responsible consultant, I prefer encrypted communications.
+My OpenPGP key can be <a href="https://bit.ly/2018ArnesonKey">downloaded here</a>. Like any responsible consultant, **I prefer encrypted communications.**
 
 <div vocab="http://schema.org/" typeof="Person" style="display:none">
   <span property="name">Erik L. Arneson</span>

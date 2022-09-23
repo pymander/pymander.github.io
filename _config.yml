@@ -44,7 +44,7 @@ header_pages:
   - contact.md
 disqus:
   shortname: erik-l-arneson
-
+show_excerpts: false
 
 # SEO configuration - see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 twitter:

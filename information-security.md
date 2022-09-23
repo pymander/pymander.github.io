@@ -9,15 +9,20 @@ permalink: /information-security/
 ---
 
 # Every Small Business Needs Information Security
-<img class="alignright wp-image-484 size-thumbnail" src="https://arnesonium.com/wp-content/uploads/2015/06/Privacy-150x150.jpg"
+<img class="alignright wp-image-484 size-thumbnail" src="https://arnesonium.com/wp-content/uploads/2015/06/Privacy-150x150.jpg#right"
     alt="Privacy" width="150" height="150" />
 
 Small businesses form strong relationships with their customers, and that means they need to protect the privacy and information that customers trust to them. Data breaches can be expensive, and can lead to lost customers and revenue. Let's come up with a plan to **protect your essential business data.**
 
-I have over 20 years of experience with information security, and have been involved in security audits, development and deployment of encryption software, and have worked in the open source security community. Information security is one of my passions. Here are some areas I'd love to help you with.
+- **I have over 20 years of experience with information security.** 
+
+I have been involved in security audits, development and deployment of encryption software, and have worked in the open source security community. Information security is one of my passions. Here are some areas I'd love to help you with.
 
 ## Data Security
-Let's work on <strong>network security</strong> and <strong>whole-disk encryption</strong>. If you store sensitive information, such as customer records, I'll help you make sure they are properly secured. My solution will protect the <strong>confidentiality, integrity, and availability</strong> of your critical data.
+
+- Let's work on <strong>network security</strong> and <strong>whole-disk encryption</strong>. 
+
+If you store sensitive information, such as customer records, I'll help you make sure they are properly secured. My solution will protect the <strong>confidentiality, integrity, and availability</strong> of your critical data.
 
 ## Private Communication
 
