@@ -22,13 +22,13 @@ If you'd like to take a look at the library, please check out the <a href="https
 
 The <code>test.ml</code> file has some examples of how to use the primality tests. However, my favorite thing about this library is that it includes a <a href="https://www.haskell.org/haskellwiki/Lazy_evaluation">lazy list</a> implementation of prime numbers. The following example shows how to set up a lazy list of prime numbers proved using the MR algorithm in the toplevel.
 
-<pre lang="ocaml">
+```ocaml
 # open Num ;;
 # let prime_list = Prime.make (Prime.miller_rabin 500) (num_of_int 500) ;;
 val prime_list : Num.num LazyList.t = LazyList.Node (Int 503, <lazy>)
 # Prime.nth prime_list 500 ;;
 - : Num.num = Int 4363
-</pre>
+```
 
 The library is pretty fast, even for really large numbers. I've tested it on 300-digit prime numbers, and I'm sure it will scale to sizes much larger than that.
 

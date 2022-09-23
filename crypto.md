@@ -5,6 +5,7 @@ date: '2015-05-03T22:49:46-07:00'
 author: 'Erik Arneson'
 layout: page
 guid: 'http://arnesonium.com/?page_id=368'
+permalink: /crypto/
 ---
 
 # Welcome to the History of Cryptography!

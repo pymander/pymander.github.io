@@ -11,7 +11,7 @@ permalink: /software-development/
 <img src="http://arnesonium.com/wp-content/uploads/2014/09/Eniac-300x229.jpg"
     alt="Eniac" width="300" height="229" class="alignright size-medium wp-image-152" />
 
-I have over 15 years of experience developing&nbsp;web applications. I've worked on some big-name projects in the past, but now the projects I love are small and short-term. I enjoy working with individuals and small companies to build web applications targeted at their needs. <strong>I&nbsp;can get your custom web application to market&nbsp;in just a matter of weeks.</strong>
+I have over 20 years of experience developing&nbsp;web applications. I've worked on some big-name projects in the past, but now the projects I love are small and short-term. I enjoy working with individuals and small companies to build web applications targeted at their needs. <strong>I&nbsp;can get your custom web application to market&nbsp;in just a matter of weeks.</strong>
 
 My experience with popular frameworks such as WordPress, Jekyll, and Zend Framework allows me to integrate exciting, cutting-edge features into my clients' software. These are some of the features I've developed and deployed in the past.
 

@@ -1,6 +1,6 @@
 ---
 id: 58
-title: 'Website: Bruno San Rafael&#8217;s Home for Former Trapeze'
+title: "Website: Bruno San Rafael's Home for Former Trapeze"
 date: '2014-11-24T09:29:56-08:00'
 author: 'Erik Arneson'
 layout: post
@@ -20,6 +20,8 @@ Back in 2012, I had the pleasure of working with my good friend Joel Barker on h
 
 Please check out the website by clicking on the screenshot below. If you use "View Source" in your browser, you can see every line of code I used to finish the site. It's one simple, medium-length monolithic HTML file with JavaScript and CSS thrown in.
 
-<a href="http://brunosanrafael.com/" target="_blank"><img class="aligncenter size-large wp-image-60" src="http://arnesonium.com/wp-content/uploads/2014/11/Screenshot-from-2014-11-13-092922-1024x499.png" alt="Bruno San Rafael" width="580" height="282" /></a>I now work with Joel regularly at <a href="http://www.wordlions.com/">Word Lions</a>, where I write and do a little more website development.
+<a href="http://brunosanrafael.com/" target="_blank"><img class="aligncenter size-large wp-image-60" src="http://arnesonium.com/wp-content/uploads/2014/11/Screenshot-from-2014-11-13-092922-1024x499.png" alt="Bruno San Rafael" width="580" height="282" /></a>
+
+I now work with Joel regularly at <a href="http://www.wordlions.com/">Word Lions</a>, where I write and do a little more website development.
 
 &nbsp;
