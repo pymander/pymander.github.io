@@ -16,6 +16,7 @@ tags:
     - howto
     - ide
     - shell
+comments: true    
 ---
 
 <p> As a long-time Linux user, I am pretty comfortable with command line interfaces. However, as I started learning more about automation and how important it is to get your computer to do more work for you, I leaned toward wanting my command line shell to do more. Eventually I switched to <a href="https://fishshell.com/">fish shell</a>, a very user-friendly shell with excellent scripting capabilities that is far more readable and less obscure than bash. </p>
