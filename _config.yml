@@ -43,7 +43,7 @@ header_pages:
   - information-security.md
   - contact.md
 disqus:
-  shortname: eriklarneson
+  shortname: erik-l-arneson
 
 
 # SEO configuration - see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
