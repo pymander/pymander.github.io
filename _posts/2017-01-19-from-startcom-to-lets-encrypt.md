@@ -1,6 +1,6 @@
 ---
 id: 658
-title: 'From StartCom to Let&#8217;s Encrypt'
+title: "From StartCom to Let's Encrypt"
 date: '2017-01-19T16:33:04-08:00'
 author: 'Erik Arneson'
 layout: post

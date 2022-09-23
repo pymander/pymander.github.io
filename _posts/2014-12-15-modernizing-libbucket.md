@@ -15,6 +15,8 @@ tags:
     - programming
 ---
 
+<img src="http://arnesonium.com/wp-content/uploads/2014/11/bucket-303359_640-300x293.png#right" alt="Metaphorically similar to this kind of bucket." width="300" height="293" class="size-medium wp-image-75" /> 
+
 If you're here to learn about my experience in software development, you've probably poked around <a href="https://github.com/pymander">my GitHub page</a>. One the older projects on there is <a href="https://github.com/pymander/libbucket">libbucket</a>, a very fast dynamic string buffer library. I originally wrote it while working for Musician's Friend, and was given permission to release it as an open sourced library in 2005.
 
 Recently I decided to update the build system in the library, which was using an old version of autoconf and automake. I haven't worked with those tools in a number of years. They are solid and flexible, but they're also a confusing tangle of m4 macros and crazy shell scripts. Also, they change a lot.
@@ -25,14 +27,14 @@ Building a library is also a little different now than it was in 2002. <a href="
 
 One thing I didn't quite figure out is how to get automake to recognize the <code>README.org</code> file as satisfying its README requirement. I ended up with an initialization block in <code>configure.ac</code> that looked like this:
 
-<pre lang="m4" line="1">
+```m4
 AC_INIT([libbucket], [1.0.4])
 AC_CONFIG_SRCDIR([src/bucket.c])
 AC_CONFIG_MACRO_DIR([m4])
 AM_INIT_AUTOMAKE([foreign])
 AM_CONFIG_HEADER(config.h)
 AM_MAINTAINER_MODE
-</pre>
+```
 
 You can see the unpleasant "cheat" on line 4. Sorry about that, world.
 
@@ -42,4 +44,3 @@ Unfortunately, I don't have any tests. When I first developed libbucket, we had 
 
 If you'd like to take a look at the changes I made, <a href="https://github.com/pymander/libbucket/commit/6314493fb7c8397318ac4a8d10624159aab07204">here's the Git commit</a>.
 
-[caption id="attachment_75" align="aligncenter" width="300"]<img src="http://arnesonium.com/wp-content/uploads/2014/11/bucket-303359_640-300x293.png" alt="Metaphorically similar to this kind of bucket." width="300" height="293" class="size-medium wp-image-75" /> Metaphorically similar to this kind of bucket.[/caption]

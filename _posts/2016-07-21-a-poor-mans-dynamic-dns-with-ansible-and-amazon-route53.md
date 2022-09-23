@@ -1,6 +1,6 @@
 ---
 id: 622
-title: 'A Poor-Man&#8217;s Dynamic DNS with Ansible and Amazon Route53'
+title: "A Poor-Man's Dynamic DNS with Ansible and Amazon Route53"
 date: '2016-07-21T09:33:45-07:00'
 author: 'Erik Arneson'
 layout: post
@@ -77,7 +77,7 @@ Note that this uses the [ipify_facts Ansible module](https://docs.ansible.com/an
 
 I named my playbook **dyndns.yml**, so I run it with this shell command: 
 
-```
+```bash
 ansible-playbook -vv dyndns.yml
 ```
 
