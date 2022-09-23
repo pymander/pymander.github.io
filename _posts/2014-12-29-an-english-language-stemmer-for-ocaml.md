@@ -27,7 +27,7 @@ When I discovered how easy it was to link C libraries into OCaml, I was overjoye
 
 Recently, while overhauling all of my publicly-available code, I decided to update my English-language stemmer for OCaml. It's not a very large piece of code, but its age really shows. It wouldn't compile cleanly with the latest version of OCaml. It looks like the code of somebody who hasn't really grokked functional programming yet. Just look at this.
 
-<pre lang="ocaml" line="1">
+```ocaml
 let rec replace_end word (rule_list : (int * string * string * int) list) =
   match rule_list with
       hd :: tl ->
@@ -38,7 +38,7 @@ let rec replace_end word (rule_list : (int * string * string * int) list) =
           replace_end word tl
     | [] ->
         (0, word)
-</pre>
+```
 
 Ouch, right?
 

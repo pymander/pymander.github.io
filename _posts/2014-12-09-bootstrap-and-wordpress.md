@@ -22,4 +22,4 @@ Speaking of design work, this website is not very pretty at the moment. I want t
 
 I decided to pursue other themes, however. My initial concern was that the website didn't look any better with WordPress Bootstrap, but I also realized that perhaps Bootstrap wasn't such a good fit for WordPress. Fränk Klein makes some great arguments against a Bootstrap-backed WordPress theme in his article, <a href="http://themeshaper.com/2014/08/19/why-bootstrap-is-a-bad-fit-for-wordpress-themes/" target="_blank">Why Bootstrap is a Bad Fit for WordPress Themes</a>.
 
-[caption id="attachment_143" align="aligncenter" width="1001"]<img src="http://arnesonium.com/wp-content/uploads/2014/12/Screenshot-from-2014-12-08-124709.png" alt="Arnesonium.com doesn&#039;t look any better with a Bootstrap theme." width="1001" height="352" class="size-full wp-image-143" /> Arnesonium.com doesn't look any better with a Bootstrap theme.[/caption]
+<img src="/wp-content/uploads/2014/12/Screenshot-from-2014-12-08-124709.png" alt="Arnesonium.com doesn&#039;t look any better with a Bootstrap theme." width="1001" height="352" class="size-full wp-image-143" />

@@ -28,10 +28,10 @@ The `ALTERNATE_WP_CRON` method uses a quick, nearly invisible redirect to direct
 
 1. Open your site's **wp-config.php** in your text editor.
 1. After the lines containing your database credentials, add the following lines:
-<pre lang="php" line="1">
-/** Use alternate WP_CRON method with redirects. */
-define('ALTERNATE_WP_CRON', true);
-</pre>
+   ```php
+   /** Use alternate WP_CRON method with redirects. */
+   define('ALTERNATE_WP_CRON', true);
+   ```
 
 <a href="http://wordpress-hackers.1065353.n5.nabble.com/ALTERNATE-WP-CRON-Is-it-worth-it-td39843.html" target="_blank">Read more about the `ALTERNATE_WP_CRON` method here.</a>
 
@@ -43,10 +43,10 @@ If you have access to a shell on your web host and can run `cron` jobs, this met
 
 1. Run `crontab -e`
 1. Add the following lines to the end of your crontab file:
-<pre lang="bash" line="1">
-# Call wp-cron regularly
-*/15 * * * * curl http://www.example.com/wp-cron.php > /dev/null 2>&1
-</pre>
+   ```bash
+   # Call wp-cron regularly
+   */15 * * * * curl http://www.example.com/wp-cron.php > /dev/null 2>&1
+   ```
 
 Make sure you replace "www.example.com" with your website's hostname. The `*/15` specifies that **wp-cron.php** will be called every 15 minutes. If you would like to change this, replace the 15 with a different number.
 
@@ -56,10 +56,10 @@ The next step is to disable the built-in call to wp-cron in WordPress.
 
 1. Open your site's **wp-config.php** in your text editor.
 1. After the lines containing your database credentials, add the following lines:
-<pre lang="php" line="1">
-/** Disable built-in cron in favor of system crontab */
-define('DISABLE_WP_CRON', true);
-</pre>
+   ```php
+   /** Disable built-in cron in favor of system crontab */
+   define('DISABLE_WP_CRON', true);
+   ```
 
 For more details on this method, <a href="https://easyengine.io/tutorials/wordpress/wp-cron-crontab/" target="_blank">check out this page on EasyEngine</a>.
 

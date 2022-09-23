@@ -5,17 +5,13 @@
 
 .site-header {
     background: {
-        image: url('/wp-content/uploads/2014/12/Brueghel-tower-of-babel-e1418151196198.jpg');
+        image: url('/assets/img/bruegel-tower-of-babel.jpg');
         repeat: no-repeat;
         position: top center;
         attachment: fixed;
         size: 100%;
         color: blue;
         
-    }
-
-    @include media-query($on-laptop) {
-        background-size: cover;
     }
     
     .site-title {

@@ -7,13 +7,14 @@ layout: page
 guid: 'http://arnesonium.com/?page_id=104'
 wp-syntax-cache-content:
     - "a:2:{i:1;s:911:\"\n<div class=\"wp_syntax\" style=\"position:relative;\"><table><tr><td class=\"line_numbers\"><pre>1\n2\n3\n4\n5\n6\n7\n</pre></td><td class=\"code\"><pre class=\"html\" style=\"font-family:monospace;\">[contact-form subject='ARNESONIUM CONTACT']\r\n[contact-field label='Name' type='name' required='1'/]\r\n[contact-field label='Email' type='email' required='1'/]\r\n[contact-field label='Phone' type='text'/]\r\n[contact-field label='Comment' type='textarea' required='1'/]\r\n[cryptbutton keyid=42]Encrypt[/cryptbutton]\r\n[/contact-form]</pre></td></tr></table><p class=\"theCode\" style=\"display:none;\">[contact-form subject='ARNESONIUM CONTACT']\r\n[contact-field label='Name' type='name' required='1'/]\r\n[contact-field label='Email' type='email' required='1'/]\r\n[contact-field label='Phone' type='text'/]\r\n[contact-field label='Comment' type='textarea' required='1'/]\r\n[cryptbutton keyid=42]Encrypt[/cryptbutton]\r\n[/contact-form]</p></div>\n\";i:2;s:401:\"\n<div class=\"wp_syntax\" style=\"position:relative;\"><table><tr><td class=\"line_numbers\"><pre>1\n2\n</pre></td><td class=\"code\"><pre class=\"html\" style=\"font-family:monospace;\">    [cryptbutton keyid:42 &quot;Encrypt&quot;]\n    [submit &quot;Send&quot;]</pre></td></tr></table><p class=\"theCode\" style=\"display:none;\">    [cryptbutton keyid:42 &quot;Encrypt&quot;]\n    [submit &quot;Send&quot;]</p></div>\n\";}"
+permalink: /wordpress-openpgp/
 ---
 
 <h1>OpenPGP Form Encryption for Wordpress</h1>
 
 <img src="https://img.shields.io/wordpress/plugin/dt/openpgp-form-encryption.svg" style="float:right"><span data-icon="&#xe088;" style="float:left;font-size:xx-large;padding-right:0.1em"></span>View this plugin on the WordPress Plugin Directory: <a href="https://wordpress.org/plugins/openpgp-form-encryption/" target="_blank">OpenPGP Form Encryption for Wordpress</a>
 
-This plugin uses <a title="OpenPGP.js" href="http://openpgpjs.org/" target="_blank">OpenPGP.js</a>&nbsp;to provide public key encryption for a textarea. It is most useful for any kind of text area that will be submitted via email or over an unsecured network connection.
+This plugin uses <a title="OpenPGP.js" href="https://openpgpjs.org/" target="_blank">OpenPGP.js</a>&nbsp;to provide public key encryption for a textarea. It is most useful for any kind of text area that will be submitted via email or over an unsecured network connection.
 
 
 <h2>Installation</h2>
@@ -78,8 +79,8 @@ Line 6 displays the <code>cryptbutton</code> usage. Note that I changed some ele
 This plugin also adds a <code>cryptbutton</code> shortcode to <a href="http://contactform7.com/" target="_blank">Contact Form 7</a>. Shortcodes use a slightly different syntax with CF7. All of the options are still available, but the example above would be used in a form like this:
 
 <pre lang="html" line="1">
-    [cryptbutton keyid:42 "Encrypt"]
-    [submit "Send"]
+[cryptbutton keyid:42 "Encrypt"]
+[submit "Send"]
 </pre>
 
 <h2>Support</h2>
