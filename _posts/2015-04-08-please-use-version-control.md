@@ -25,7 +25,9 @@ Stack Overflow released their <a href="http://stackoverflow.com/research/develop
 
 <h2>9.3% of Respondents Don't Use Version Control</h2>
 
-[caption id="attachment_345" align="alignright" width="300"]<img src="http://arnesonium.com/wp-content/uploads/2015/04/Screenshot-from-2015-04-08-192457-300x188.png" alt="Almost 10% of programmers aren't using version control." width="300" height="188" class="size-medium wp-image-345" /> Almost 10% of programmers aren't using version control.[/caption]StackOverflow says that <a href="http://stackoverflow.com/research/developer-survey-2015#tech-sourcecontrol" title="Stack Overflow Developer Survey 2015" target="_blank">almost 10% of developers still aren't using version control</a>. This is terrible. If you happen to be one of the developers who hasn't adopted version control yet, <b>make it your next priority!</b>
+<img src="http://arnesonium.com/wp-content/uploads/2015/04/Screenshot-from-2015-04-08-192457.png" alt="Almost 10% of programmers aren't using version control." width="300" height="188" class="size-medium wp-image-345" />
+
+StackOverflow says that <a href="http://stackoverflow.com/research/developer-survey-2015#tech-sourcecontrol" title="Stack Overflow Developer Survey 2015" target="_blank">almost 10% of developers still aren't using version control</a>. This is terrible. If you happen to be one of the developers who hasn't adopted version control yet, <b>make it your next priority!</b>
 
 Version control, also known as source control or revision control, is vital to best programming practices. It provides an incremental backup along with comments and notes on changes that have been made. It provides a view of changes and all kinds of handy features, such as handling conflicts between changes, release tagging, code branches, and more. If you aren't sure what version control is, check out Ilya Olevsky's post, <a href="http://www.codeservedcold.com/version-control-importance/" title="Why Version Control is Critical to Your Success" target="_blank">"Why Version Control is Critical to Your Success,"</a> and then come back here.
 
@@ -47,7 +49,9 @@ In all, there were 598 unused files that were unnecessary backups of old, broken
 
 <h2>Getting Started with Version Control</h2>
 
-<img src="http://arnesonium.com/wp-content/uploads/2015/04/git-logo.png" alt="git-logo" width="220" height="92" class="alignright size-full wp-image-347" />If you've decided to make the right move and start using version control, you will see that there are many to choose from. However, if you're just going to learn one, you should start with <b>Git</b>. As you can see from the survey, it is the most widely used. The best place to start is probably in the free e-book offered by the Git development team. <a href="http://git-scm.com/book/en/v1/Getting-Started" title="Git: Getting Started" target="_blank">Click here to get started.</a>
+<img src="http://arnesonium.com/wp-content/uploads/2015/04/git-logo.png" alt="git-logo" width="220" height="92" class="alignright size-full wp-image-347" />
+
+If you've decided to make the right move and start using version control, you will see that there are many to choose from. However, if you're just going to learn one, you should start with <b>Git</b>. As you can see from the survey, it is the most widely used. The best place to start is probably in the free e-book offered by the Git development team. <a href="http://git-scm.com/book/en/v1/Getting-Started" title="Git: Getting Started" target="_blank">Click here to get started.</a>
 
 <h2>If You're Doing It, Thank You</h2>
 
@@ -55,8 +59,8 @@ The first time I encountered a team that wasn't using version control, I was sho
 
 As a bonus, here's my favorite <code>git log</code> command. Add it to your aliases.
 
-<pre lang="bash">
-$ git log --oneline --graph --all --decorate
-</pre>
+```bash
+git log --oneline --graph --all --decorate
+```
 
 <small><em>The featured image for this post is a pile of logs, to remind you that logs are important, and a vital part of version control.</em></small>

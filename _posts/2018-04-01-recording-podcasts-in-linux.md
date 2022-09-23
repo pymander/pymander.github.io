@@ -18,14 +18,17 @@ tags:
     - pulseaudio
     - tutorial
     - Ubuntu
+comments: true    
 ---
 
-I co-host a podcast called <a href="https://myalchemicalbromance.com/" rel="noopener" target="_blank">My Alchemical Bromance</a>, and one of the frequent challenges I end up facing is how to record video and voice chats for interviews. A lot of podcasters use external hardware devices, such as the <a href="https://amzn.to/2Gt0iOc" rel="noopener" target="_blank">Focusrite Scarlett 2i4</a>, which is a great solution. But I wanted to do it all in software -- and in Linux.
+I co-host a podcast called <a href="https://myalchemicalbromance.com/" rel="noopener" target="_blank">My Alchemical Bromance</a>, and one of the frequent challenges I end up facing is how to record video and voice chats for interviews. A lot of podcasters use external hardware devices, such as the <a href="https://amzn.to/2Gt0iOc" rel="noopener" target="_blank">Focusrite Scarlett 2i4</a>, which is a great solution. But I wanted to do it all in software---and in Linux.
 <!--more-->
 
 ## My Configuration
 
-[caption id="attachment_797" align="alignright" width="246"]<a href="https://amzn.to/2GJJBgt"><img src="https://arnesonium.com/wp-content/uploads/2018/04/Blue-Snowball-USB-246x300.png" alt="Blue Snowball USB microphone" width="246" height="300" class="size-medium wp-image-797" /></a> The Blue Snowball[/caption]For this setup, you need headphones, a microphone, and an Internet connection. I use a <a href="https://amzn.to/2H4C8Gs" rel="noopener" target="_blank">Blue Snowball USB microphone</a>, which is affordable, sturdy, and great quality for just recording a podcast.
+<a href="https://amzn.to/2GJJBgt"><img src="https://arnesonium.com/wp-content/uploads/2018/04/Blue-Snowball-USB-246x300.png#right" alt="Blue Snowball USB microphone" width="246" height="300" class="size-medium wp-image-797" /></a>
+
+For this setup, you need headphones, a microphone, and an Internet connection. I use a <a href="https://amzn.to/2H4C8Gs" rel="noopener" target="_blank">Blue Snowball USB microphone</a>, which is affordable, sturdy, and great quality for just recording a podcast.
 
 ## PulseAudio and ALSA
 
@@ -35,13 +38,13 @@ Anybody who's played with audio stuff in Linux knows that it's a total mess. I'm
 
 We need two pieces of information from PulseAudio: the system sound monitor, and the microphone monitor. Run the following command:
 
-```shell
+```bash
 pactl list | grep -A2 'Source #'
 ```
 
 You should get output that looks like this:
 
-<pre line="1">
+```
 Source #0
 	State: IDLE
 	Name: alsa_output.pci-0000_00_1b.0.analog-stereo.monitor
@@ -53,7 +56,7 @@ Source #1
 Source #9
 	State: SUSPENDED
 	Name: alsa_input.usb-BLUE_MICROPHONE_Blue_Snowball_201305-00.analog-mono
-</pre>
+```
 
 The bits you're interested in are the "Name" for the `analog-stereo.monitor` entry and the `analog-mono` entry. In my example, you will find them on lines 3 and 11. Save those for the next step.
 
@@ -61,7 +64,7 @@ The bits you're interested in are the "Name" for the `analog-stereo.monitor` ent
 
 Because we're going to use an ALSA-compatible tool for recording, we need to configure ALSA to talk to PulseAudio (which then talks to ALSA again on the backend -- like I said, audio is confusing in Linux and I'm sorry that either of us has to spend any time thinking about it). You will want to open `$HOME/.asoundrc` and add the following entries.
 
-<pre line="1">
+```
 # Creating a system sound monitor
 pcm.pulse_monitor {
   type pulse
@@ -83,7 +86,7 @@ ctl.pulse_usbmic {
   type pulse
   device alsa_input.usb-BLUE_MICROPHONE_Blue_Snowball_201305-00.analog-mono
 }
-</pre>
+```
 
 You will see that on lines 4 and 9, I used the name of the system monitor PulseAudio device from the previous step. Likewise, on lines 15 and 20, I used the name for the USB microphone device.
 
@@ -99,11 +102,11 @@ sudo apt install ecasound ecatools
 
 To start recording, run this command:
 
-<pre lang="bash" line="1">
+```bash
 ecasound -c \
          -f:16,1,44100 -a:1 -i alsa,pulse_usbmic -o ecatrack1.wav \
          -f:16,2,44100 -a:2 -i alsa,pulse_monitor -o ecatrack2.wav
-</pre>
+```
 
 At the "ecasound" prompt, type "start" to begin recording. When you are done, type "stop" and then "quit". Your microphone audio will be in `ecatrack1.wav` and your computer system audio will be in `ecatrack2.wav`.
 

@@ -30,23 +30,23 @@ Planetary hours are an old method of figuring out which planets are "in charge" 
 
 You can set up a `PlanetaryHour` object by passing it a time zone offset in hours, a latitude, and a longitude. The following example might help.
 
-<pre lang="cpp" line="1">
+```cpp
 #define MYZONE -7
 
 PlanetaryHour ph(MYZONE, 45.5, -122.7);
-</pre>
+```
 
 Then, you can check the ruling planet of the current day and hour with an RTC or other time-keeping mechanism.
 
-<pre lang="cpp" line="1">
+```cpp
 time_t timer = utc.unixtime() - UNIX_OFFSET;
 uint8_t dayPlanet = ph.dayPlanet(&timer);
 uint8_t hourPlanet = ph.hourPlanet(&timer);
-</pre>
+```
 
 The return value of `dayPlanet()` and `hourPlanet()` is a number from 0 to 6, corresponding to the Chaldean planetary order.
 
-<pre lang="cpp" line="1">
+```cpp
 #define SATURN 0
 #define JUPITER 1
 #define MARS 2
@@ -54,7 +54,7 @@ The return value of `dayPlanet()` and `hourPlanet()` is a number from 0 to 6, co
 #define VENUS 4
 #define MERCURY 5
 #define MOON 6
-</pre>
+```
 
 I'll be posting an article on <a href="http://www.arnemancy.com/" target="_blank">the Arnemancy blog</a> outlining a project I just installed using this library and some <a href="https://www.adafruit.com/category/168" target="_blank">NeoPixels</a>. I really look forward to seeing what others end up doing with this code!
 

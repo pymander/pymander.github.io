@@ -13,6 +13,11 @@
         color: blue;
         
     }
+
+    @include media-query($on-laptop) {
+        background-size: cover;
+    }
+    
     .site-title {
         color: lighten($grey-color, 60%);
         font: {
@@ -36,5 +41,22 @@
         background: {
             color: rgba(255,255,255,0.5);
         }
+    }
+}
+
+/* Configuring image layouts intelligently. */
+img[src*="#left"] {
+    @media screen and (min-width: $on-laptop) {
+        max-width: 50%;
+        float: left;
+        padding-right: 15px;
+    }
+}
+
+img[src*="#right"] {
+    @media screen and (min-width: $on-laptop) {
+        max-width: 50%;
+        float: right;
+        padding-left: 15px;
     }
 }
