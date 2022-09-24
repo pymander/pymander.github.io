@@ -17,9 +17,8 @@ tags:
     - php
     - programming
     - 'web development'
+image: /wp-content/uploads/2014/11/Screenshot-from-2014-11-18-122227.png    
 ---
-
-<a href="http://www.punchlinepdx.com/"><img class="aligncenter size-full wp-image-88" src="http://arnesonium.com/wp-content/uploads/2014/11/Screenshot-from-2014-11-18-122227.png" alt="PunchlinePDX" width="397" height="147" /></a>
 
 <a href="http://www.punchlinepdx.com/">PunchlinePDX</a> is a slow-motion video booth for events and parties based out of Portland, Oregon. Earlier this year, I helped them develop event management software that would allow them to upload and curate video.
 

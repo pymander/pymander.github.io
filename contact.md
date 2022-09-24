@@ -5,9 +5,10 @@ date: '2014-09-17T17:41:09-07:00'
 author: 'Erik Arneson'
 layout: page
 guid: 'http://arnesonium.com/?page_id=21'
+permalink: /contact/
 ---
 
-<img src="http://arnesonium.com/wp-content/uploads/2014/09/boy-63777_640-300x279.jpg#right" alt="Boy with telegraph" width="300" height="279" class="alignright size-medium wp-image-154" />
+<img src="/wp-content/uploads/2014/09/boy-63777_640-300x279.jpg#right" alt="Boy with telegraph" width="300" height="279" class="alignright size-medium wp-image-154" />
 
 **I love a good challenge.** Let's work together to bring your project to completion. Contact me via the information below.
 
@@ -16,7 +17,24 @@ P.O. Box 42672<br>
 Portland, OR 97242<br>
 Phone: +1 (541) 291-9776
 
+## Contact me by email
+
 My OpenPGP key can be <a href="https://bit.ly/2018ArnesonKey">downloaded here</a>. Like any responsible consultant, **I prefer encrypted communications.**
+
+<!-- modify this form HTML and place wherever you want your form -->
+<form action="https://formspree.io/f/xjvzwrkp" method="POST">
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <br>
+  <label>
+    Your message:<br>
+    <textarea name="message" rows=20 style="width:90%"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit" class="btn">Send</button>
+</form>
 
 <div vocab="http://schema.org/" typeof="Person" style="display:none">
   <span property="name">Erik L. Arneson</span>

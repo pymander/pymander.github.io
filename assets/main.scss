@@ -78,3 +78,22 @@ img[src*="#right"] {
 .rss-subscribe {
     margin-top: 1em;
 }
+
+/* Buttons */
+.btn {
+	padding: 10px 20px;
+	display: inline-block;
+	border: {
+            radius: 3px;
+            color: $grey-color-dark;
+        }
+	background: $grey-color-light;
+	font-size: 1.2em;
+	color: $text-color;
+}
+
+.btn-large {
+	padding: 20px 30px;
+	font-size: 1.75em;
+	@extend .btn;
+}

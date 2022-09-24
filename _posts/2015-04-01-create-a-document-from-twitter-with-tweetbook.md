@@ -17,9 +17,8 @@ tags:
     - tweetbook
     - twitter
     - 'web development'
+image: /wp-content/uploads/2015/04/Screenshot-from-2015-04-01-102456-1024x294.png    
 ---
-
-<a href="http://tweetbook.arnesonium.com/" target="_blank"><img src="http://arnesonium.com/wp-content/uploads/2015/04/Screenshot-from-2015-04-01-102456-1024x294.png" alt="TweetBook snapshot" width="1024" height="294" class="aligncenter size-large wp-image-318" /></a>
 
 I just released <a href="http://tweetbook.arnesonium.com/" title="TweetBook" target="_blank">TweetBook</a>, a web application to transform a Twitter stream into a simple document that can easily be turned into a photo album.
 <!--more-->
@@ -31,8 +30,13 @@ A client came to me complaining that there was no available solution to export a
 Since I've been working with Google App Engine a lot lately, I used Go to write a tool that retrieves Tweets from a search or timeline. It provides a number of formatting options, and then creates a simple document suitable for exporting into an HTML or PDF file.
 
 <h2>Try It Out!</h2>
-The client told me to do whatever I wanted with the code, so I'm making it available for use! <strong><a href="http://tweetbook.arnesonium.com/" title="TweetBook" target="_blank">Click here to try TweetBook!</a></strong> If you find it useful, please consider funding further development by contributing a small amount with this button:<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
- <button type="submit" class="pushbutton-wide">Contribute $1.99 &raquo;</button><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="3PNSJJHRF9XWA">
+
+<em>As of 2022, this application is seven years old and probably doesn't work anymore.</em>
+
+The client told me to do whatever I wanted with the code, so I'm making it available for use! <strong><a href="http://tweetbook.arnesonium.com/" title="TweetBook" target="_blank">Click here to try TweetBook!</a></strong> If you find it useful, please consider funding further development by contributing a small amount with this button:
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+ <button type="submit" class="btn">Contribute $1.99 &raquo;</button><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="3PNSJJHRF9XWA">
  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
