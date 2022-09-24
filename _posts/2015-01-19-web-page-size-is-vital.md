@@ -18,6 +18,7 @@ tags:
 ---
 
 When I first learned how to program a computer, optimization was a big deal. Figuring out how to squeeze every bit of performance out of a subroutine was difficult but rewarding. Articles were frequently written about how to best go about optimizing source code.
+<!--more-->
 
 In the late 1990s, I began working on my first web applications. Bandwidth was expensive, so we worked on ways to make our websites more compact. We <a href="http://www.feedthebot.com/pagespeed/enable-compression.html" target="_blank">compressed web pages</a> and figured out ways to strip out whitespace. However, today websites have quite a bit going on in the front of the house. There's a lot of JavaScript and CSS that gets passed to the browser, and as a result, web applications are transmitting more data than ever.
 

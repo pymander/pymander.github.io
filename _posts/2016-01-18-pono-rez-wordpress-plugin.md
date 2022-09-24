@@ -19,6 +19,7 @@ tags:
 ---
 
 Together with <a href="http://www.commercecollective.com/" target="_blank">Commerce Collective</a>, ((I started working with them last year, <a href="https://arnesonium.com/2015/05/now-working-with-commercecollective/">remember</a>?)) we have built a WordPress plugin to allow <a href="http://www.a3h.org/" target="_blank">Activities & Attractions Association of Hawaii</a> (A3H) to quickly and easily integrate activity bookings and sales into their WordPress websites.
+<!--more-->
 
 We still have more features to add to the plugin, but it's a solid start that will save A3H members a lot of time. It is written in PHP ((Like all WordPress plugins, of course.)) and JavaScript, and uses the Pono Rez SOAP interface to integrate activity data into a WordPress page.
 

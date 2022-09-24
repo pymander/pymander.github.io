@@ -19,6 +19,7 @@ tags:
 ---
 
 My talk at OMSI last night, "Computers and the Dawn of Modern Cryptography," went really well. It was a great crowd and there was a good Q&A session afterwards. I'm going to keep this post really brief. First, there will be slides for my talk. Following that will be a brief bibliography if you're interested in learning more about this fascinating topic.
+<!--more-->
 
 <a class="button" href="http://arnesonium-downloads.s3.amazonaws.com/OMSI-Computers%20and%20Cryptography.pdf">Click here to download my slides.</a>
 

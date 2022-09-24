@@ -17,6 +17,7 @@ tags:
 ---
 
 This past Fall, a bunch of big names <a href="https://security.googleblog.com/2016/10/distrusting-wosign-and-startcom.html" target="_blank">removed StartCom from their trusted SSL Certificate Authority list</a>. As a result, when I renewed my SSL certificates this year, I went with <a href="https://letsencrypt.org/" target="_blank">Let's Encrypt</a>. It was a pleasant experience, because Let's Encrypt uses a command-line client called <a href="https://certbot.eff.org/" target="_blank">Certbot</a> that does most of the heavy lifting for you.
+<!--more-->
 
 After certificate renewal, everything is still looking pretty good. Please let me know if you have any SSL problems with my website through <a href="https://arnesonium.com/contact/">the contact form</a>.
 

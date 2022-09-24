@@ -19,6 +19,7 @@ tags:
 ---
 
 Kind of good news: Senators Ron Wyden and Rand Paul teamed up to <a href="http://boingboing.net/2015/05/23/ron-wyden-and-rand-paul-kill-t.html" target="_blank">squash the Patriot Act extension</a>. It's going to expire on June 1st unless another vote is called on the 31st. The <a href="https://en.wikipedia.org/wiki/USA_Freedom_Act" target="_blank">USA Freedom Act</a> (which I think is good?) unfortunately didn't make it through Senate, either.
+<!--more-->
 
 https://twitter.com/RonWyden/status/601979044318547969
 

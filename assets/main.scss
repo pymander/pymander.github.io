@@ -56,3 +56,25 @@ img[src*="#right"] {
         padding-left: 15px;
     }
 }
+
+/* Pagination block */
+.pagination {
+    display: flex;
+    font-size: 90%;
+    
+    .previous, a.previous {
+	flex: 1;
+    }
+    .page_number {
+	flex: 1;
+        text-align: center;
+    }
+    next, a.next {
+	flex: 1;
+        text-align: right;
+    }
+}
+
+.rss-subscribe {
+    margin-top: 1em;
+}

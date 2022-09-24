@@ -19,9 +19,11 @@ tags:
     - programming
     - 'web development'
     - wordpress
+image: /wp-content/uploads/2014/12/640px-Enigma-plugboard-300x204.jpg    
 ---
 
-<img src="http://arnesonium.com/wp-content/uploads/2014/12/640px-Enigma-plugboard-300x204.jpg" alt="Enigma Plugboard" width="300" height="204" class="alignright size-medium wp-image-122" />As I <a href="http://arnesonium.com/2015/02/random-link-rodeo/" title="Random Link Rodeo">mentioned earlier this week</a>, I've decided to learn the <a href="http://golang.org/" target="_blank">Go programming language</a>. I've also been very interested in Google App Engine, which lets you deploy applications to the cloud from a development sandbox. It's like magic for web and mobile applications!
+As I <a href="http://arnesonium.com/2015/02/random-link-rodeo/" title="Random Link Rodeo">mentioned earlier this week</a>, I've decided to learn the <a href="http://golang.org/" target="_blank">Go programming language</a>. I've also been very interested in Google App Engine, which lets you deploy applications to the cloud from a development sandbox. It's like magic for web and mobile applications!
+<!--more-->
 
 Since I'm so fond of prime numbers, I thought I'd build a web service for calculating them. It does some other fun stuff, too, like figuring out if a number is happy. It also caches primes in the Google Cloud Datastore with some minimal statistics. If you'd like to see the source code for the prime number service, it's <a href="https://github.com/pymander/prime-json-service" target="_blank">available on GitHub</a>.
 <!--more-->

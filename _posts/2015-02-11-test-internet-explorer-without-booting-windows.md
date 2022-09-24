@@ -20,6 +20,7 @@ tags:
 ---
 
 Internet Explorer (IE) has been frustrating me. I want to use stronger words than that, but it would be unprofessional.
+<!--more-->
 
 I recently launched the <a href="http://arnesonium.com/2015/01/philalethes-e-bulletin-online-reader/" title="Philalethes E-Bulletin Online Reader"><em>Philalethes E-Bulletin</em> Online Reader</a>, which uses EPUB.js and an implementation of XPath that, for some strange reason, isn't available in IE. I found a few solutions which would work, but all of them require testing in IE. Of course.
 

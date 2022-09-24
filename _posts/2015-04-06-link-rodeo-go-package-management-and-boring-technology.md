@@ -21,6 +21,7 @@ tags:
 ---
 
 Here are a number of interesting topics for you to think about this week.
+<!--more-->
 
 I've been learning the <a href="http://arnesonium.com/tag/golang/" title="Go language">Go programming language</a> recently, and in the process I've been having conversations about it with friends and colleagues. Go has a unique package management system that has already caused me a number of headaches. The recommended method for taking care of package dependencies is lacking, at best. Over at Nerdbucket, my buddy Nerdmaster has written <a href="http://blog.nerdbucket.com/go-dependency-freezing/article" title="Go Dependency Freezing at Nerdbucket" target="_blank">a thoughtful piece about it</a>.
 

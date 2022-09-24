@@ -19,6 +19,7 @@ tags:
 ---
 
 Driftwood Public Library is great! I had a wonderful time in Lincoln City speaking about secret societies and cryptography. Links to my slides are below.
+<!--more-->
 
 <a class="button" href="https://arnesonium-downloads.s3.amazonaws.com/Secret%20Societies%20in%20Fiction.pdf">Secret Societies in Fiction</a> <a class="button" href="https://arnesonium-downloads.s3.amazonaws.com/How%20Computers%20Changed%20Cryptography.pdf">How Computers Changed Cryptography</a>
 

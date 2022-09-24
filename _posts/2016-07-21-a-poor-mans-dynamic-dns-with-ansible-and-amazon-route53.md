@@ -20,6 +20,7 @@ tags:
 ---
 
 I wanted to be able to configure a DNS hostname dynamically, but couldn't find an easy-to-use dynamic DNS client that suited my needs. Using <a href="http://ansible.com/">Ansible</a> and <a href="https://aws.amazon.com/route53/">Amazon Route53</a>, I put together a quick, effective solution.
+<!--more-->
 
 ## Requirements
 

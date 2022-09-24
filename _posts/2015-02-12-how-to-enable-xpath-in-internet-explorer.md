@@ -21,6 +21,7 @@ tags:
 ---
 
 Yesterday, I shared a little bit about using a virtual machine to <a href="http://arnesonium.com/2015/02/test-internet-explorer-without-booting-windows/" title="How to Test Your Frontend Against Internet Explorer Without Booting Windows">test frontend code under Internet Explorer (IE)</a>. My goal was to use <a href="https://code.google.com/p/wicked-good-xpath/" title="Wicked Good XPath" target="_blank">Wicked Good XPath</a> to add the proper XPath features to IE so that EPUB.js would work correctly, thus making the <a href="http://arnesonium.com/2015/01/philalethes-e-bulletin-online-reader/" title="Philalethes E-Bulletin Online Reader"><em>Philalethes E-Bulletin</em> Online Reader</a> work on all major browsers.
+<!--more-->
 
 Well, I'd been thinking about this problem for a while, but had delayed working on it because I just didn't want to fiddle with IE. While I'd been thinking about it, the <a href="https://github.com/futurepress/epub.js/commit/f2fa7497939e5876ff6676cf8de34d7284498495#diff-04c6e90faac2675aa89e2176d2eec7d8" target="_blank">EPUB.js instructions were updated</a> with IE-specific steps. I didn't have to look far.
 

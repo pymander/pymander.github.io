@@ -14,9 +14,11 @@ tags:
     - portland
     - 'web development'
     - wordpress
+image: /wp-content/uploads/2015/02/1024px-HawthorneBridge-Pano.jpg    
 ---
 
-<img src="http://arnesonium.com/wp-content/uploads/2015/02/1024px-HawthorneBridge-Pano.jpg" alt="Hawthorne Bridge" width="1024" height="266" class="aligncenter size-full wp-image-285" />I've been working on a few projects, but nothing I can share publicly. However, I've also been out in the world of the Portland tech community, which has been excellent. If you haven't heard of <a href="http://calagator.org/" target="_blank">Calagator</a> yet, go check it out.
+I've been working on a few projects, but nothing I can share publicly. However, I've also been out in the world of the Portland tech community, which has been excellent. If you haven't heard of <a href="http://calagator.org/" target="_blank">Calagator</a> yet, go check it out.
+<!--more-->
 
 Last week, I went to a meet-and-greet for developer evangelists from <a href="https://cloud.google.com/" target="_blank">Google Cloud Platform</a>. After talking to one of the Google devs, I was convinced to give <a href="http://golang.org/" title="The Go Language" target="_blank">Go</a> a try. He told me that Go has type inference, and while I was dismayed to learn that it only has type inference on variable declarations, it still looks like a good language. I'm playing around with <a href="http://sawsij.com/" target="_blank">sawsij</a> and <a href="https://cloud.google.com/appengine/" target="_blank">Google App Engine</a> and should have something to share in a few weeks.
 

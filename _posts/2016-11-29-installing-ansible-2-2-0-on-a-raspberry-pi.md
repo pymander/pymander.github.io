@@ -15,6 +15,7 @@ tags:
 ---
 
 [Ansible](https://www.ansible.com/) is a powerful IT automation tool with lots of modules and active development. Unfortunately, the only version available for stock Raspberry Pi is old. I wanted to use some of the newer modules and features, so I needed to install at least version 2.2. This tutorial will walk you through installing Ansible 2.2.0 on a Raspberry Pi running Raspbian "jessie". The version of Raspbian I did this on was tagged "2016-09-23".
+<!--more-->
 
 Creating a Debian package for Ansible requires a lot of prerequisites, including [TeX Live](https://www.tug.org/texlive/), which can take up almost 2GB of space. If you don't want to do this yourself, you can try downloading the [Ansible package I built](http://arnesonium-downloads.s3.amazonaws.com/ansible_2.2.0.0-100.git201611010320.cdec853.HEAD~unstable_all.deb). It might be old by the time you read this, though!
 

@@ -18,6 +18,7 @@ tags:
 ---
 
 I'm in the middle of some major migrations and upgrades on the Arnesonium servers. So far, the results have been positive. For instance, the SSL/TLS configuration on my webserver is finally awesome. I've also got <a href="https://www.maxcdn.com/" target="_blank">MaxCDN</a> configured properly, so the entire website is now served via SSL/TLS only!
+<!--more-->
 
 Here's what the <a href="https://www.ssllabs.com/ssltest" target="_blank">Qualys SSL Labs</a> checker had to say:
 

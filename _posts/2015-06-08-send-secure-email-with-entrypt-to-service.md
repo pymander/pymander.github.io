@@ -16,7 +16,8 @@ tags:
     - 'web development'
 ---
 
-While my <a href="https://arnesonium.com/wordpress-openpgp/">OpenPGP plugin for WordPress</a> might be very helpful, the <a href="https://encrypt.to/" target="_blank">Encrypt.to service</a> allows you to quickly send encrypted email with just one click. It looks powerful.
+While my <a href="/wordpress-openpgp/">OpenPGP plugin for WordPress</a> might be very helpful, the <a href="https://encrypt.to/" target="_blank">Encrypt.to service</a> allows you to quickly send encrypted email with just one click. It looks powerful.
+<!--more-->
 
 You can <a href="https://encrypt.to/earneson@arnesonium.com" target="_blank">click here to send me encrypted email</a> or visit the <a href="https://github.com/encrypt-to/encrypt.to" target="_blank">source code</a>.  
 

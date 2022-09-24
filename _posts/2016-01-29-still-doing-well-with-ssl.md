@@ -18,5 +18,6 @@ tags:
 ---
 
 I renewed my SSL certificate today and updated the configuration. Still doing pretty well!
+<!--more-->
 
 <img src="https://arnesonium.com/wp-content/uploads/2016/01/Screenshot-from-2016-01-29-12-07-06.png" alt="arnesonium.com SSL certificate test" width="923" height="516" class="aligncenter size-full wp-image-576" />

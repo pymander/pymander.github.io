@@ -35,7 +35,9 @@ instagram_username: pymander
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-paginator
+paginate: 10
+  
 # Theme settings
 header_pages:
   - about.markdown
@@ -44,7 +46,8 @@ header_pages:
   - contact.md
 disqus:
   shortname: erik-l-arneson
-show_excerpts: false
+show_excerpts: true
+excerpt_separator: <!--more-->
 
 # SEO configuration - see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 twitter:

@@ -23,6 +23,7 @@ tags:
 ---
 
 Recently I wrote a tutorial with <a href="http://wordlions.com/" target="_blank">Word Lions</a> for <a href="http://ctl.io/" target="_blank">CenturyLink Cloud</a> that teaches how to build and deploy a Node.js application to CenturyLink AppFog. The tutorial and application were really fun to build and write. It was my first Node.js project, and my first experience with CloudFoundry. The tutorial uses the following CenturyLink Cloud products:
+<!--more-->
 
 <ul>
 	<li><a href="https://www.ctl.io/appfog/">AppFog</a></li>
