@@ -4,12 +4,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  {%- if post.custom_css -%}
+  {%- if page.custom_css -%}
     {%- for stylesheet in page.custom_css -%}
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ stylesheet }}.css">
     {%- endfor -%}
   {%- endif -%}
-  {%- if post.custom_js -%}
+  {%- if page.custom_js -%}
     {%- for js_file in page.custom_js -%}
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ js_file }}.js"></script>
     {%- endfor -%}
