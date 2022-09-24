@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Erik L. Arneson is a freelance writer and software developer located
   in Portland, Oregon.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://arnesonium.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pymander
 github_username:  pymander
 linkedin_username: elarneson
