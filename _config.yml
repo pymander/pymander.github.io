@@ -48,6 +48,7 @@ disqus:
   shortname: erik-l-arneson
 show_excerpts: true
 excerpt_separator: <!--more-->
+google_analytics: UA-5539168-7
 
 # SEO configuration - see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 twitter:
