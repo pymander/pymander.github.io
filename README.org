@@ -1,0 +1,3 @@
+#+TITLE: The website for Erik L. Arneson
+
+You probably want to actually [[https://arnesonium.com/][visit the website]].
