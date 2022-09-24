@@ -20,6 +20,7 @@ image: /wp-content/uploads/2015/02/Screenshot-from-2015-02-17-144550.png
 ---
 
 <a href="http://eyesandedge.com/pansophie/" target="_blank">Pansophie Personality and Color</a> is focused on mapping personalities to colors. Alexandra Hall wanted an online testing platform with flexible questions, testing mechanisms, and report generation. I built a full-featured web application to meet Pansophie PC's requirements. This was one of my early Zend Framework projects, but it ended up with some neat features.
+<!--more-->
 
 <ul>
 	<li>A private administrative interface</li>

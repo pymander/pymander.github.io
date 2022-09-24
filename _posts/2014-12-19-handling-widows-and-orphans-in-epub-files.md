@@ -13,10 +13,10 @@ tags:
     - design
     - epub
     - publishing
+image: /wp-content/uploads/2014/12/Fraktur.png
 ---
 
-For a little over a year, I've been working with the <a href="http://idpf.org/epub" target="_blank">EPUB format</a> to build electronic books. I've been working on a software package to build EPUB files in Emacs, in fact. ((Sorry, it's not available for the general public yet. Someday!)) This has required learning more about design, and a great deal more about book layout. As with many design elements, once you're made aware of them, you notice them all of the time. EPUBs, for instance, are not very good at handling <a href="http://www.magazinedesigning.com/typographic-widows-and-orphans/" target="_blank">widows and orphans</a>.
+For a little over a year, I've been working with the <a href="http://idpf.org/epub" target="_blank">EPUB format</a> to build electronic books. I've been working on a software package to build EPUB files in Emacs, in fact. This has required learning more about design, and a great deal more about book layout. As with many design elements, once you're made aware of them, you notice them all of the time. EPUBs, for instance, are not very good at handling <a href="http://www.magazinedesigning.com/typographic-widows-and-orphans/" target="_blank">widows and orphans</a>.
+<!--more-->
 
 Since EPUB uses HTML, it doesn't have all of the tools available to print for handling these design issues. However, I've recently learned that there is hope. Over on <a href="http://www.pigsgourdsandwikis.com/2010/06/goodbye-widows-and-orphans-or-yes-you.html">Pigs, Gourds, and Wikis</a>, I learned about the CSS <code>div</code> property, <code>display:&nbsp;inline-block</code>. I'm looking forward to using this in future EPUBs to improve format even more.
-
-<img src="http://arnesonium.com/wp-content/uploads/2014/12/Fraktur-300x106.png" alt="Typesetting" width="300" height="106" class="aligncenter size-medium wp-image-200" />

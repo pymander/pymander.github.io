@@ -17,6 +17,7 @@ tags:
 ---
 
 A couple of weeks ago, I cleaned up my prime number library for <a href="https://ocaml.org/">OCaml</a>. This library has a number of primality-testing methods in it, but my favorite is the <a href="http://jeremykun.com/2013/06/16/miller-rabin-primality-test/">Miller-Rabin primality test</a>. It's fast and rather accurate.
+<!--more-->
 
 If you'd like to take a look at the library, please check out the <a href="https://github.com/pymander/camlprime">camlprime GitHub page</a>. The library is pretty easy to use. If you download and compile the library, you'll end up with a toplevel that you can play with.
 

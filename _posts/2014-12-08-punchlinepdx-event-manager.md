@@ -21,6 +21,7 @@ image: /wp-content/uploads/2014/11/Screenshot-from-2014-11-18-122227.png
 ---
 
 <a href="http://www.punchlinepdx.com/">PunchlinePDX</a> is a slow-motion video booth for events and parties based out of Portland, Oregon. Earlier this year, I helped them develop event management software that would allow them to upload and curate video.
+<!--more-->
 
 This was their first experience hiring a software developer, so I had the opportunity to walk them through the entire process. We started by outlining requirements and coming up with a solid plan with application screens, functions, and things to meet their business needs. We then brainstormed additional features and came up with something pretty amazing.
 

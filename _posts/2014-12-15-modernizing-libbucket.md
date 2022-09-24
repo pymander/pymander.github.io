@@ -15,9 +15,10 @@ tags:
     - programming
 ---
 
-<img src="http://arnesonium.com/wp-content/uploads/2014/11/bucket-303359_640-300x293.png#right" alt="Metaphorically similar to this kind of bucket." width="300" height="293" class="size-medium wp-image-75" /> 
-
 If you're here to learn about my experience in software development, you've probably poked around <a href="https://github.com/pymander">my GitHub page</a>. One the older projects on there is <a href="https://github.com/pymander/libbucket">libbucket</a>, a very fast dynamic string buffer library. I originally wrote it while working for Musician's Friend, and was given permission to release it as an open sourced library in 2005.
+<!--more-->
+
+<img src="http://arnesonium.com/wp-content/uploads/2014/11/bucket-303359_640-300x293.png#right" alt="Metaphorically similar to this kind of bucket." /> 
 
 Recently I decided to update the build system in the library, which was using an old version of autoconf and automake. I haven't worked with those tools in a number of years. They are solid and flexible, but they're also a confusing tangle of m4 macros and crazy shell scripts. Also, they change a lot.
 

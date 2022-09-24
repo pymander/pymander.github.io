@@ -18,6 +18,7 @@ tags:
 ---
 
 A stemming algorithm attempts to reduce words to their stem. For instance, "swimming" would be reduced to "swim", and "avocados" would become "avocado". This is useful in a number of situations, most especially in searching text. This library is a direct port of the Porter English stemming algorithm.
+<!--more-->
 
 It was one of my first OCaml projects. I wrote it back in 2003, when I was still new to the language. I had been spending a lot of time writing C libraries that were being called by Perl scripts for my day job. Perl has, or had, a cumbersome, messy interface to C that made such interfaces very difficult to write and maintain.
 

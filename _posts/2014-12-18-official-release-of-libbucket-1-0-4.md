@@ -18,6 +18,7 @@ tags:
 <img src="https://img.shields.io/github/release/pymander/libbucket.svg"/>
 
 I've tagged <a href="https://github.com/pymander/libbucket/releases/tag/v1.0.4" target="_blank">version 1.0.4</a> of libbucket over on GitHub. You can download a tarball <a href="https://github.com/pymander/libbucket/archive/v1.0.4.tar.gz" target="_blank">at this link</a>. If you'd like to read more about libbucket, see <a href="http://arnesonium.com/2014/12/modernizing-libbucket/" title="Modernizing libbucket">my post from earlier this week</a>.
+<!--more-->
 
 <em>Very handy edit:</em>
 

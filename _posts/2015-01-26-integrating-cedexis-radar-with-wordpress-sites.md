@@ -19,6 +19,11 @@ tags:
     - wordpress
 ---
 
-<a target="_blank" href="http://cedexis.com"><img src="http://arnesonium.com/wp-content/uploads/2015/01/logo-cedexis.png" alt="Cedexis Logo" width="157" height="50" class="alignright size-full wp-image-247" /></a><a href="http://www.cedexis.com/radar/" target="_blank">Cedexis Radar</a> is a real user monitoring (RUM) system that collects millions of metrics every day. It's used to measure the health of networks in order for <a href="http://www.cedexis.com/openmix/" target="_blank">Cedexis Openmix</a> to make intelligent routing decisions for web service users.
+<a href="http://www.cedexis.com/radar/" target="_blank">Cedexis Radar</a> is a real user monitoring (RUM) system that collects millions of metrics every day. It's used to measure the health of networks in order for <a href="http://www.cedexis.com/openmix/" target="_blank">Cedexis Openmix</a> to make intelligent routing decisions for web service users.
+<!--more-->
 
-I put together <a href="http://arnesonium.com/cedexis-radar-tracking-for-wordpress/" title="Cedexis Radar Tracking for WordPress">a simple plugin</a> to add Cedexis Radar tracking codes to a WordPress website. I'm not yet sure how much of an overlap there is between WordPress users and Cedexis Openmix users, but if you're using both, <a href="http://arnesonium.com/cedexis-radar-tracking-for-wordpress/" title="Cedexis Radar Tracking for WordPress">check out my new plugin</a>.
+<a target="_blank" href="http://cedexis.com"><img src="/wp-content/uploads/2015/01/logo-cedexis.png#right" alt="Cedexis Logo"></a>
+
+I put together <a href="/cedexis-radar-tracking-for-wordpress/" title="Cedexis Radar Tracking for WordPress">a simple plugin</a> to add Cedexis Radar tracking codes to a WordPress website. I'm not yet sure how much of an overlap there is between WordPress users and Cedexis Openmix users, but if you're using both, <a href="/cedexis-radar-tracking-for-wordpress/" title="Cedexis Radar Tracking for WordPress">check out my new plugin</a>.
+
+<em>Sometime between 2015 and 2022, Cedexis was purchased by Citrix and no longer exists.</em>
