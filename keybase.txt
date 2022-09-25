@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/earneson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://arnesonium.com
+  * I am earneson (https://keybase.io/earneson) on keybase.
+  * I have a public key ASAxKuEfWRPBB-7Z84_i61kt_-7gkxvchOSfcnF2tOfqJwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01113c6514fee22399f5fcffe2f83c7642a81fca6416e68eaa0f75480751431807340a",
+            "host": "keybase.io",
+            "kid": "0120312ae11f5913c107eed9f38fe2eb592dffeee0931bdc84e49f727176b4e7ea270a",
+            "uid": "42574dca3c9fba0347e15a8541e78a19",
+            "username": "earneson"
+        },
+        "service": {
+            "hostname": "arnesonium.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1483738031,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1483737939,
+        "hash": "09a620dc749cc7e57c2bcd478deb7e99b537704e86ae923893b3b1e38b3e4162f74afd1dea01b781e692e4c06db1b555c1bcc80f2307ed6db6a751b684152861",
+        "seqno": 789097
+    },
+    "prev": "fae6c601b6ab6d1bd18681904b13f3b8a10e1e890d2f9bdc78ddd2fc1ecdce0d",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMSrhH1kTwQfu2fOP4utZLf/u4JMb3ITkn3JxdrTn6icKp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTExM2M2NTE0ZmVlMjIzOTlmNWZjZmZlMmY4M2M3NjQyYTgxZmNhNjQxNmU2OGVhYTBmNzU0ODA3NTE0MzE4MDczNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzEyYWUxMWY1OTEzYzEwN2VlZDlmMzhmZTJlYjU5MmRmZmVlZTA5MzFiZGM4NGU0OWY3MjcxNzZiNGU3ZWEyNzBhIiwidWlkIjoiNDI1NzRkY2EzYzlmYmEwMzQ3ZTE1YTg1NDFlNzhhMTkiLCJ1c2VybmFtZSI6ImVhcm5lc29uIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJhcm5lc29uaXVtLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDgzNzM4MDMxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODM3Mzc5MzksImhhc2giOiIwOWE2MjBkYzc0OWNjN2U1N2MyYmNkNDc4ZGViN2U5OWI1Mzc3MDRlODZhZTkyMzg5M2IzYjFlMzhiM2U0MTYyZjc0YWZkMWRlYTAxYjc4MWU2OTJlNGMwNmRiMWI1NTVjMWJjYzgwZjIzMDdlZDZkYjZhNzUxYjY4NDE1Mjg2MSIsInNlcW5vIjo3ODkwOTd9LCJwcmV2IjoiZmFlNmM2MDFiNmFiNmQxYmQxODY4MTkwNGIxM2YzYjhhMTBlMWU4OTBkMmY5YmRjNzhkZGQyZmMxZWNkY2UwZCIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBF2P+cyY/DlbduRqRiUPAbb2nT6UV1CvYZkyOsKh+Isg06GbqUNu2HUYhpV8N2eRSPqZ3V6mlX6qyzul+z26AIqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg7UfNJglaX7JjDjKRhvaogpUKKe3sTzLopQY+t/c9M3CjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/earneson
+
+==================================================================
+
