@@ -37,7 +37,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginator
 paginate: 10
-  
+highlighter: rouge
+
 # Theme settings
 header_pages:
   - about.markdown
