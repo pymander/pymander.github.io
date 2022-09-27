@@ -60,7 +60,13 @@ social:
   links:
     - https://twitter.com/pymander
     - https://www.linkedin.com/in/elarneson/
-  
+
+# Related posts - see https://github.com/jsware/jekyll-related-posts
+related_by: tags or categories # Match on categories OR tags
+related_limit: 3              # Include 4 related pages by default
+related_categories: 1          # Match at least 1 category
+related_tags: 1                # OR at least 2 tags.
+    
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

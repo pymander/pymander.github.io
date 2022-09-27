@@ -4,6 +4,13 @@ author: "Erik L. Arneson"
 layout: post
 permalink: /2022/09/wordpress-returning-404-errors
 comments: true
+tags:
+    - wordpress
+    - wordpress plugins
+    - plugins
+categories:
+    - WordPress
+    - Development
 ---
 
 A WordPress website that I maintain was running into a problem. The most recently published post would periodically lose its permalink and

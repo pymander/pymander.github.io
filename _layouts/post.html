@@ -24,6 +24,11 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="wrapper related-posts">
+    <h3>You may also like:</h3>
+    {% include related.html %}
+  </div>
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}

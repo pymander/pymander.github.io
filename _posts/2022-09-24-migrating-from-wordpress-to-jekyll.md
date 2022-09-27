@@ -4,6 +4,15 @@ author: "Erik L. Arneson"
 layout: post
 permalink: /2022/09/migrating-from-wordpress-to-jekyll
 comments: true
+tags:
+    - wordpress
+    - jekyll
+    - website development
+    - github
+categories:
+    - Jekyll
+    - WordPress
+    - Development
 ---
 
 Since launching this site in 2014, it has run on WordPress. I have always wanted to move the site to another blogging platform,

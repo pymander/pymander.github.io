@@ -97,3 +97,18 @@ img[src*="#right"] {
 	font-size: 1.75em;
 	@extend .btn;
 }
+
+/* Related posts */
+.related-posts {
+    border: {
+        style: solid;
+        width: 1px;
+        radius: 2px;
+        color: darken($grey-color-light, 15%);
+    }
+    background: $grey-color-light;
+    padding: {
+        top: 15px;
+        bottom: 15px;
+    }
+}
