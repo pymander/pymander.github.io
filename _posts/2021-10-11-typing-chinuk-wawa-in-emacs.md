@@ -22,6 +22,7 @@ tags:
     - learning
     - Linux
     - lisp
+    - emacs
 ---
 
 Back in 2015, I took a course in being an ally for local Native American communities from the <a href="https://www.pugspdx.com/" rel="noopener" target="_blank">Portland Underground Grad School (PUGS)</a>. One action that was suggested during the course was learning the local language, but it proved difficult to find opportunities. When the pandemic forced school closures, though, Lane Community College began offering classes online. I found out about this thanks to the excellent <a href="https://kaltashwawa.ca/2021/09/07/non-credit-enrollment-is-open-for-chinuk-wawa-classes-at-lane-community-college/">Kaltash Wawa blog</a>, and this fall I signed up to take a remote <a href="https://www.lanecc.edu/llc/language/chinuk-wawa">Chinuk Wawa class through Lane Community College</a>.

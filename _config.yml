@@ -44,6 +44,7 @@ header_pages:
   - about.markdown
   - software-development.md
   - information-security.md
+  - writing.md
   - contact.md
 disqus:
   shortname: erik-l-arneson
