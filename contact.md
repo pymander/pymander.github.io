@@ -6,6 +6,8 @@ author: 'Erik Arneson'
 layout: page
 guid: 'http://arnesonium.com/?page_id=21'
 permalink: /contact/
+custom_js_offsite:
+    - 'https://www.google.com/recaptcha/api.js'
 ---
 
 <img src="/wp-content/uploads/2014/09/boy-63777_640-300x279.jpg#right" alt="Boy with telegraph" width="300" height="279" class="alignright size-medium wp-image-154" />
@@ -33,6 +35,7 @@ My OpenPGP key can be <a href="https://bit.ly/2018ArnesonKey">downloaded here</a
     <textarea name="message" rows=20 style="width:90%"></textarea>
   </label>
   <!-- your other form fields go here -->
+  <div class="g-recaptcha" data-sitekey="6LcDtPsSAAAAALF66lY2GqToLSZShqoxLMGsBMFf"></div>
   <button type="submit" class="btn">Send</button>
 </form>
 
