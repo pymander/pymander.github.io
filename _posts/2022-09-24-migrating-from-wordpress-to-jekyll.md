@@ -19,7 +19,7 @@ Since launching this site in 2014, it has run on WordPress. I have always wanted
 especially since I wasn't really taking advantage of all of the WordPress features.
 <!--more-->
 
-- **I kept running WordPress for many years for two reasons.** 
+- **I kept running WordPress for years for two reasons.** 
 
 First, I needed to show off my WordPress skills to attract clients. Second, I
 thought it would be difficult to migrate away from WordPress. Once I got some experience with [Jekyll](https://jekyllrb.com/) and 
@@ -31,12 +31,12 @@ thought it would be difficult to migrate away from WordPress. Once I got some ex
 
 The process **only took about an hour** to get everything set up.
 
-I then spent many hours tweaking everything until it looked good. Probably too many hours.
+I then spent hours tweaking everything until it looked good. Probably too many hours.
 
 ## Why migrate to Jekyll?
 
 Jekyll is a static site generator, and pages and posts are all
-generated with very easy Markdown. This makes it easy to keep the
+generated with easy Markdown. This makes it easy to keep the
 layout simple and easy to do things like share source code.
 
 - **Here is some simple Go code** just to show you how it looks.
