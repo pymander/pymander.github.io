@@ -2,7 +2,7 @@
 id: 54
 title: 'Successful Article: Symbolism in Masonic Rings'
 date: '2014-11-17T09:16:59-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=54'
 permalink: /2014/11/successful-article-symbolism-in-masonic-rings/

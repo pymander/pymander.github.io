@@ -2,7 +2,7 @@
 id: 408
 title: 'Security Link Rodeo: The Patriot Act, Logjam, and Hacked Websites'
 date: '2015-05-29T10:51:59-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=408'
 permalink: /2015/05/another-security-link-rodeo/

@@ -2,7 +2,7 @@
 id: 701
 title: 'Driftwood Public Library Follow-Up'
 date: '2017-05-01T10:27:58-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=701'
 permalink: /2017/05/driftwood-public-library-follow-up/

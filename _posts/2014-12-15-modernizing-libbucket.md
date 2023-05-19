@@ -2,7 +2,7 @@
 id: 74
 title: 'Modernizing libbucket'
 date: '2014-12-15T08:45:55-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=74'
 permalink: /2014/12/modernizing-libbucket/

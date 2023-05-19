@@ -2,7 +2,7 @@
 id: 169
 title: 'Small Team Software Change Management'
 date: '2014-12-17T17:45:51-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=169'
 permalink: /2014/12/small-team-software-change-management/

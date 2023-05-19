@@ -2,7 +2,7 @@
 id: 233
 title: 'Web Page Size is Vital'
 date: '2015-01-19T12:05:17-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=233'
 permalink: /2015/01/web-page-size-is-vital/

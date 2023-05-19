@@ -2,7 +2,7 @@
 id: 429
 title: 'A Look Back on the History of Cryptography'
 date: '2015-06-01T08:30:02-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=429'
 permalink: /2015/06/a-look-back-on-the-history-of-cryptography/

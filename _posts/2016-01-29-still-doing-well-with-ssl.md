@@ -2,7 +2,7 @@
 id: 575
 title: 'Still Doing Well with SSL'
 date: '2016-01-29T12:10:47-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=575'
 permalink: /2016/01/still-doing-well-with-ssl/

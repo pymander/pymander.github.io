@@ -2,7 +2,7 @@
 id: 693
 title: 'Upcoming Lectures at Driftwood Public Library'
 date: '2017-04-13T10:04:39-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=693'
 permalink: /2017/04/upcoming-lectures-at-driftwood-public-library/

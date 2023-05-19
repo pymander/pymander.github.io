@@ -2,7 +2,7 @@
 id: 559
 title: 'CenturyLink AppFog Tutorial'
 date: '2016-01-15T09:26:41-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=559'
 permalink: /2016/01/centurylink-appfog-tutorial/

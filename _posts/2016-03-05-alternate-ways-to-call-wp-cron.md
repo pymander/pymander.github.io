@@ -2,7 +2,7 @@
 id: 585
 title: 'Alternate Ways to Call wp-cron'
 date: '2016-03-05T09:09:28-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=585'
 permalink: /2016/03/alternate-ways-to-call-wp-cron/

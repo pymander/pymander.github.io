@@ -2,7 +2,7 @@
 id: 690
 title: 'Raspberry Pi GPIO with Erlang'
 date: '2017-04-10T10:23:14-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=690'
 permalink: /2017/04/raspberry-pi-gpio-with-erlang/

@@ -2,7 +2,7 @@
 id: 228
 title: 'Hypothes.is Web Annotation Tool'
 date: '2015-01-14T15:38:13-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=228'
 permalink: /2015/01/hypothes-is-web-annotation-tool/

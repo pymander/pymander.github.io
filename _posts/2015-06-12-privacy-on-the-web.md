@@ -2,7 +2,7 @@
 id: 503
 title: 'How to Increase Your Privacy on the Web'
 date: '2015-06-12T08:01:30-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=503'
 permalink: /2015/06/privacy-on-the-web/

@@ -2,7 +2,7 @@
 id: 64
 title: 'Handy Tools for the Bourne Again Shell'
 date: '2014-12-01T08:38:30-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=64'
 permalink: /2014/12/handy-tools-for-the-bourne-again-shell/

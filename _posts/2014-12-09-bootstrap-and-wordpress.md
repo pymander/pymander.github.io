@@ -2,7 +2,7 @@
 id: 142
 title: 'Bootstrap and WordPress'
 date: '2014-12-09T08:44:32-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=142'
 permalink: /2014/12/bootstrap-and-wordpress/

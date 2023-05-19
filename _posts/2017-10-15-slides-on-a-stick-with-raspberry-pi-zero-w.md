@@ -2,7 +2,7 @@
 id: 754
 title: 'Slides on a Stick with Raspberry Pi Zero W'
 date: '2017-10-15T12:38:19-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=754'
 permalink: /2017/10/slides-on-a-stick-with-raspberry-pi-zero-w/

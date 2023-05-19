@@ -2,7 +2,7 @@
 id: 402
 title: 'Now Working with CommerceCollective!'
 date: '2015-05-26T08:02:27-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=402'
 permalink: /2015/05/now-working-with-commercecollective/

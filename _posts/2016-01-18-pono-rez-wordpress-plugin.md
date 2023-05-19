@@ -2,7 +2,7 @@
 id: 563
 title: 'Pono Rez WordPress Plugin'
 date: '2016-01-18T09:52:32-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=563'
 permalink: /2016/01/pono-rez-wordpress-plugin/

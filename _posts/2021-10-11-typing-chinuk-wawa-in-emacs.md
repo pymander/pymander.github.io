@@ -2,7 +2,7 @@
 id: 4633
 title: 'Typing Chinuk Wawa in Emacs'
 date: '2021-10-11T10:01:00-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=4633'
 permalink: /2021/10/typing-chinuk-wawa-in-emacs/

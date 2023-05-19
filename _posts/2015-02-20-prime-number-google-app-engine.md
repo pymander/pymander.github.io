@@ -2,7 +2,7 @@
 id: 295
 title: 'Prime Number Service on Google App Engine'
 date: '2015-02-20T14:37:41-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=295'
 permalink: /2015/02/prime-number-google-app-engine/

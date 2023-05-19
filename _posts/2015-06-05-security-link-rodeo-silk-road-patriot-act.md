@@ -2,7 +2,7 @@
 id: 431
 title: 'Security Link Rodeo: Silk Road, the Patriot Act, Alan Turing, and Your Passwords'
 date: '2015-06-05T10:33:25-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=431'
 permalink: /2015/06/security-link-rodeo-silk-road-patriot-act/

@@ -2,7 +2,7 @@
 id: 87
 title: 'PunchlinePDX Event Manager'
 date: '2014-12-08T09:23:17-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=87'
 permalink: /2014/12/punchlinepdx-event-manager/

@@ -2,7 +2,7 @@
 id: 622
 title: "A Poor-Man's Dynamic DNS with Ansible and Amazon Route53"
 date: '2016-07-21T09:33:45-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=622'
 permalink: /2016/07/a-poor-mans-dynamic-dns-with-ansible-and-amazon-route53/

@@ -2,7 +2,7 @@
 id: 339
 title: 'Please Use Version Control'
 date: '2015-04-08T20:07:44-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=339'
 permalink: /2015/04/please-use-version-control/

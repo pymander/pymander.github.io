@@ -2,7 +2,7 @@
 id: 440
 title: 'Send Secure Email with Entrypt.to Service'
 date: '2015-06-08T08:48:03-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=440'
 permalink: /2015/06/send-secure-email-with-entrypt-to-service/

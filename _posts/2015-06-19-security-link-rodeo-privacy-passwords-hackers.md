@@ -2,7 +2,7 @@
 id: 522
 title: 'Security Link Rodeo: Privacy, Your Passwords, and Hackers'
 date: '2015-06-19T14:34:02-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=522'
 permalink: /2015/06/security-link-rodeo-privacy-passwords-hackers/

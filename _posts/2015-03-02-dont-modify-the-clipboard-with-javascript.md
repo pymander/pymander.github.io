@@ -2,7 +2,7 @@
 id: 307
 title: "Don't Modify the Clipboard with JavaScript"
 date: '2015-03-02T08:42:53-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=307'
 permalink: /2015/03/dont-modify-the-clipboard-with-javascript/

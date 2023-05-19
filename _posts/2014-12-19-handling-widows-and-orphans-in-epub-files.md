@@ -2,7 +2,7 @@
 id: 197
 title: 'Handling Widows and Orphans in EPUB Files'
 date: '2014-12-19T06:46:32-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=197'
 permalink: /2014/12/handling-widows-and-orphans-in-epub-files/

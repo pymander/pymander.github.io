@@ -2,7 +2,7 @@
 id: 332
 title: 'Link Rodeo: Go Package Management and Boring Technology'
 date: '2015-04-06T08:47:00-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=332'
 permalink: /2015/04/link-rodeo-go-package-management-and-boring-technology/

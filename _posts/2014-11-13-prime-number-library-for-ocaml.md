@@ -2,7 +2,7 @@
 id: 49
 title: 'Prime Number Library for OCaml'
 date: '2014-11-13T09:08:39-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=49'
 permalink: /2014/11/prime-number-library-for-ocaml/

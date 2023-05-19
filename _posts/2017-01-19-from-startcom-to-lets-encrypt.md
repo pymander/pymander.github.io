@@ -2,7 +2,7 @@
 id: 658
 title: "From StartCom to Let's Encrypt"
 date: '2017-01-19T16:33:04-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=658'
 permalink: /2017/01/from-startcom-to-lets-encrypt/

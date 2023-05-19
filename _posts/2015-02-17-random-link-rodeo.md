@@ -2,7 +2,7 @@
 id: 283
 title: 'Random Link Rodeo'
 date: '2015-02-17T08:43:32-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=283'
 permalink: /2015/02/random-link-rodeo/

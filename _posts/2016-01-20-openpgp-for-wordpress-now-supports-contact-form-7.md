@@ -2,7 +2,7 @@
 id: 568
 title: 'OpenPGP for WordPress Now Supports Contact Form 7'
 date: '2016-01-20T08:54:43-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=568'
 permalink: /2016/01/openpgp-for-wordpress-now-supports-contact-form-7/

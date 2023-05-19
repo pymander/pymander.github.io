@@ -2,7 +2,7 @@
 id: 317
 title: 'Create a Document From Twitter with TweetBook'
 date: '2015-04-01T10:48:56-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=317'
 permalink: /2015/04/create-a-document-from-twitter-with-tweetbook/

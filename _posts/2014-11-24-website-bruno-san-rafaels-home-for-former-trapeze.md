@@ -2,7 +2,7 @@
 id: 58
 title: "Website: Bruno San Rafael's Home for Former Trapeze"
 date: '2014-11-24T09:29:56-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=58'
 permalink: /2014/11/website-bruno-san-rafaels-home-for-former-trapeze/

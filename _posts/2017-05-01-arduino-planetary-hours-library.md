@@ -2,7 +2,7 @@
 id: 710
 title: 'Arduino Planetary Hours library'
 date: '2017-05-01T11:30:35-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=710'
 permalink: /2017/05/arduino-planetary-hours-library/

@@ -2,7 +2,7 @@
 id: 121
 title: 'OpenPGP.js and WordPress'
 date: '2014-12-03T08:14:51-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=121'
 permalink: /2014/12/openpgp-js-and-wordpress/

@@ -2,7 +2,7 @@
 id: 796
 title: 'Recording Podcasts in Linux'
 date: '2018-04-01T16:23:02-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=796'
 permalink: /2018/04/recording-podcasts-in-linux/

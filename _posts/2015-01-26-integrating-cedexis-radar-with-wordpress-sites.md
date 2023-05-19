@@ -2,7 +2,7 @@
 id: 258
 title: 'Integrating Cedexis Radar with WordPress Sites'
 date: '2015-01-26T12:00:52-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=258'
 permalink: /2015/01/integrating-cedexis-radar-with-wordpress-sites/

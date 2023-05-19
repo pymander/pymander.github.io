@@ -2,7 +2,7 @@
 id: 273
 title: 'How to Enable XPath in Internet Explorer'
 date: '2015-02-12T09:13:32-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=273'
 permalink: /2015/02/how-to-enable-xpath-in-internet-explorer/

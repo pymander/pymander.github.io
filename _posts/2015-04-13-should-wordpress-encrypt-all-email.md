@@ -2,7 +2,7 @@
 id: 337
 title: 'Should WordPress Encrypt All Email?'
 date: '2015-04-13T08:13:43-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=337'
 permalink: /2015/04/should-wordpress-encrypt-all-email/

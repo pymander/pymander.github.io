@@ -2,7 +2,7 @@
 id: 181
 title: 'Official Release of Libbucket 1.0.4'
 date: '2014-12-18T10:56:02-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=181'
 permalink: /2014/12/official-release-of-libbucket-1-0-4/

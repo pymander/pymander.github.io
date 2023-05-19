@@ -2,7 +2,7 @@
 id: 264
 title: 'When to Develop Apps From Scratch'
 date: '2015-02-03T12:56:10-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=264'
 permalink: /2015/02/when-to-develop-apps-from-scratch/

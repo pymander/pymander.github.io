@@ -2,7 +2,7 @@
 id: 268
 title: 'How to Test Your Frontend Against Internet Explorer Without Booting Windows'
 date: '2015-02-11T11:15:26-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=268'
 permalink: /2015/02/test-internet-explorer-without-booting-windows/

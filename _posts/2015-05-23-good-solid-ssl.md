@@ -2,7 +2,7 @@
 id: 417
 title: 'Good, solid SSL'
 date: '2015-05-23T19:12:06-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=417'
 permalink: /2015/05/good-solid-ssl/

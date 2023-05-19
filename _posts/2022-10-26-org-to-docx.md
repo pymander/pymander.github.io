@@ -75,7 +75,7 @@ I use a custom [fish shell](https://fishshell.com/) function that looks like thi
 ```fish
 function org2docx --description 'Generate a DOCX file using a custom reference document'
     set -l refdoc "$PATH_TO_REFERENCE_DOCX"
-    set -l base (basename -s .md -s .org $argv)
+    set -l base (basename -s .org $argv)
     echo Generating $base.docx ...
     pandoc --reference-doc $refdoc -o $base.docx $argv
 end

@@ -2,7 +2,7 @@
 id: 188
 title: 'Philalethes E-Bulletin Online Reader'
 date: '2015-01-12T14:33:11-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=188'
 permalink: /2015/01/philalethes-e-bulletin-online-reader/

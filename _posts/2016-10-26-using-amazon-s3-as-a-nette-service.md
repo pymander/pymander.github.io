@@ -2,7 +2,7 @@
 id: 636
 title: 'Using Amazon S3 as a Nette Service'
 date: '2016-10-26T15:17:16-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=636'
 permalink: /2016/10/using-amazon-s3-as-a-nette-service/

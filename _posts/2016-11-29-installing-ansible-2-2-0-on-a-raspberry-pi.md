@@ -2,7 +2,7 @@
 id: 647
 title: 'Installing Ansible 2.2.0 on a Raspberry Pi'
 date: '2016-11-29T10:19:14-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/2016/11/installing-ansible-2-2-0-on-a-raspberry-pi/'
 permalink: /2016/11/installing-ansible-2-2-0-on-a-raspberry-pi/

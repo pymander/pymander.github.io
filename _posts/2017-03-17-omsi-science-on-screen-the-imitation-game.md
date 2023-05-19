@@ -2,7 +2,7 @@
 id: 674
 title: 'OMSI Science on Screen: The Imitation Game'
 date: '2017-03-17T13:17:00-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=674'
 permalink: /2017/03/omsi-science-on-screen-the-imitation-game/

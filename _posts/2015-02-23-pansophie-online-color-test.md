@@ -2,7 +2,7 @@
 id: 287
 title: 'Pansophie Online Color Test'
 date: '2015-02-23T08:46:52-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=287'
 permalink: /2015/02/pansophie-online-color-test/

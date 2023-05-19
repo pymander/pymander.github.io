@@ -2,7 +2,7 @@
 id: 684
 title: 'OMSI Science on Screen Wrapup'
 date: '2017-03-29T09:51:34-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=684'
 permalink: /2017/03/omsi-science-on-screen-wrapup/

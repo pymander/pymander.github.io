@@ -2,7 +2,7 @@
 id: 4645
 title: 'Some Great Fish Shell Plugins'
 date: '2022-09-23T10:44:00-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=4645'
 permalink: /2022/09/some-great-fish-shell-plugins/

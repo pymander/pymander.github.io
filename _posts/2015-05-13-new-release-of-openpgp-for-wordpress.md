@@ -2,7 +2,7 @@
 id: 393
 title: 'New Release of OpenPGP for WordPress'
 date: '2015-05-13T11:16:07-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=393'
 permalink: /2015/05/new-release-of-openpgp-for-wordpress/

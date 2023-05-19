@@ -2,7 +2,7 @@
 id: 397
 title: 'Security Link Rodeo'
 date: '2015-05-22T13:57:00-07:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=397'
 permalink: /2015/05/security-link-rodeo/

@@ -2,7 +2,7 @@
 id: 130
 title: 'Camlprime Now on OPAM'
 date: '2014-12-02T14:19:09-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=130'
 permalink: /2014/12/camlprime-now-on-opam/

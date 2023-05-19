@@ -2,7 +2,7 @@
 id: 80
 title: 'An English-language Stemmer for OCaml'
 date: '2014-12-29T08:47:38-08:00'
-author: 'Erik Arneson'
+author: 'Erik L. Arneson'
 layout: post
 guid: 'http://arnesonium.com/?p=80'
 permalink: /2014/12/an-english-language-stemmer-for-ocaml/
