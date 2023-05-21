@@ -20,7 +20,6 @@
 
 title: Erik L. Arneson — Writer and Software Developer
 author: Erik L. Arneson
-email: earneson@arnesonium.com
 description: >- # this means to ignore newlines until "baseurl:"
   Erik L. Arneson is a freelance writer and software developer located
   in Portland, Oregon.
@@ -50,7 +49,8 @@ disqus:
   shortname: erik-l-arneson
 show_excerpts: true
 excerpt_separator: <!--more-->
-google_analytics: UA-5539168-7
+#google_analytics: UA-5539168-7
+google_analytics: G-4VKRLBFHGX
 
 # SEO configuration - see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 twitter:
