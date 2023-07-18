@@ -35,3 +35,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Syntax highlighting
 gem 'rouge'
+
+# Are these important?
+gem 'webrick'
+gem 'faraday-retry'
