@@ -16,13 +16,25 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
+
+  <span class="post-tags">
+    <b>tags:</b>
+    {% for tag in page.tags %}
+    {% assign tag_slug = tag | slugify: "default" %}
+    <a class="tag-link"
+      href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
+      rel="category tag">
+      #{{ tag }}
+    </a>
+    {% endfor %}
+  </span>
 
   <div class="wrapper related-posts">
     <h3>You may also like:</h3>

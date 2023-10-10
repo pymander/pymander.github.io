@@ -37,6 +37,7 @@ plugins:
   - jekyll-paginator
 paginate: 10
 highlighter: rouge
+safe: false
 
 # Theme settings
 header_pages:
@@ -67,7 +68,16 @@ related_by: tags or categories # Match on categories OR tags
 related_limit: 3              # Include 4 related pages by default
 related_categories: 1          # Match at least 1 category
 related_tags: 1                # OR at least 2 tags.
-    
+
+# Set up collections, like tags and feeds.
+collections:
+  tags:
+    output: true
+    permalink: tags/:path/
+  feeds:
+    output: true
+    permalink: feeds/:path.xml
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
