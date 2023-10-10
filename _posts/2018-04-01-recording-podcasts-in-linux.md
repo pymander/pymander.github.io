@@ -6,18 +6,16 @@ author: 'Erik L. Arneson'
 layout: post
 guid: 'https://arnesonium.com/?p=796'
 permalink: /2018/04/recording-podcasts-in-linux/
-wp-syntax-cache-content:
-    - "a:3:{i:1;s:897:\"\n<div class=\"wp_syntax\" style=\"position:relative;\"><table><tr><td class=\"line_numbers\"><pre>1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n</pre></td><td class=\"code\"><pre class=\"\" style=\"font-family:monospace;\">Source #<span style=\"\">0</span>\n    State: IDLE\n    Name: alsa_output.pci-0000_00_1b.0.analog-stereo.monitor\n--\nSource #<span style=\"\">1</span>\n    State: SUSPENDED\n    Name: alsa_input.pci-0000_00_1b.0.analog-stereo\n--\nSource #<span style=\"\">9</span>\n    State: SUSPENDED\n    Name: alsa_input.usb-BLUE_MICROPHONE_Blue_Snowball_201305-00.analog-mono</pre></td></tr></table><p class=\"theCode\" style=\"display:none;\">Source #0\n    State: IDLE\n    Name: alsa_output.pci-0000_00_1b.0.analog-stereo.monitor\n--\nSource #1\n    State: SUSPENDED\n    Name: alsa_input.pci-0000_00_1b.0.analog-stereo\n--\nSource #9\n    State: SUSPENDED\n    Name: alsa_input.usb-BLUE_MICROPHONE_Blue_Snowball_201305-00.analog-mono</p></div>\n\";i:2;s:1549:\"\n<div class=\"wp_syntax\" style=\"position:relative;\"><table><tr><td class=\"line_numbers\"><pre>1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n</pre></td><td class=\"code\"><pre class=\"\" style=\"font-family:monospace;\"># Creating a system sound monitor\npcm.pulse_monitor <span class=\"br0\">&#123;</span>\n  type pulse\n  device alsa_output.pci-0000_00_1b.0.analog-stereo.monitor\n<span class=\"br0\">&#125;</span>\n&nbsp;\nctl.pulse_monitor <span class=\"br0\">&#123;</span>\n  type pulse\n  device alsa_output.pci-0000_00_1b.0.analog-stereo.monitor\n<span class=\"br0\">&#125;</span>\n&nbsp;\n# Creating an ALSA interface for the USB microphone\npcm.pulse_usbmic <span class=\"br0\">&#123;</span>\n  type pulse\n  device alsa_input.usb-BLUE_MICROPHONE_Blue_Snowball_201305-00.analog-mono\n<span class=\"br0\">&#125;</span>\n&nbsp;\nctl.pulse_usbmic <span class=\"br0\">&#123;</span>\n  type pulse\n  device alsa_input.usb-BLUE_MICROPHONE_Blue_Snowball_201305-00.analog-mono\n<span class=\"br0\">&#125;</span></pre></td></tr></table><p class=\"theCode\" style=\"display:none;\"># Creating a system sound monitor\npcm.pulse_monitor {\n  type pulse\n  device alsa_output.pci-0000_00_1b.0.analog-stereo.monitor\n}\n\nctl.pulse_monitor {\n  type pulse\n  device alsa_output.pci-0000_00_1b.0.analog-stereo.monitor\n}\n\n# Creating an ALSA interface for the USB microphone\npcm.pulse_usbmic {\n  type pulse\n  device alsa_input.usb-BLUE_MICROPHONE_Blue_Snowball_201305-00.analog-mono\n}\n\nctl.pulse_usbmic {\n  type pulse\n  device alsa_input.usb-BLUE_MICROPHONE_Blue_Snowball_201305-00.analog-mono\n}</p></div>\n\";i:3;s:1028:\"\n<div class=\"wp_syntax\" style=\"position:relative;\"><table><tr><td class=\"line_numbers\"><pre>1\n2\n3\n</pre></td><td class=\"code\"><pre class=\"bash\" style=\"font-family:monospace;\">ecasound <span style=\"color: #660033;\">-c</span> \\\n         -f:<span style=\"color: #000000;\">16</span>,<span style=\"color: #000000;\">1</span>,<span style=\"color: #000000;\">44100</span> -a:<span style=\"color: #000000;\">1</span> <span style=\"color: #660033;\">-i</span> alsa,pulse_usbmic <span style=\"color: #660033;\">-o</span> ecatrack1.wav \\\n         -f:<span style=\"color: #000000;\">16</span>,<span style=\"color: #000000;\">2</span>,<span style=\"color: #000000;\">44100</span> -a:<span style=\"color: #000000;\">2</span> <span style=\"color: #660033;\">-i</span> alsa,pulse_monitor <span style=\"color: #660033;\">-o</span> ecatrack2.wav</pre></td></tr></table><p class=\"theCode\" style=\"display:none;\">ecasound -c \\\n         -f:16,1,44100 -a:1 -i alsa,pulse_usbmic -o ecatrack1.wav \\\n         -f:16,2,44100 -a:2 -i alsa,pulse_monitor -o ecatrack2.wav</p></div>\n\";}"
 categories:
     - Projects
 tags:
     - alsa
     - audio
-    - Ecasound
-    - Linux
+    - ecasound
+    - linux
     - pulseaudio
     - tutorial
-    - Ubuntu
+    - ubuntu
 comments: true    
 ---
 

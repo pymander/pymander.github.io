@@ -5,12 +5,11 @@ layout: post
 permalink: /2023/08/configuring-emacs-29-1-for-golang
 comments: true
 tags:
-- emacs
-- programming
-- go
-- golang
-- lisp
-- emacs lisp
+  - emacs
+  - programming
+  - golang
+  - lisp
+  - emacs-lisp
 ---
 
 Now that I have [installed Emacs 29.1](https://arnesonium.com/2023/07/emacs-29-1-on-ubuntu-22-04-lts), I needed to get it set up for Go development for a project. I was interested in taking advantage of both the new Tree-Sitter integration, and the new Eglot language server client. However, they were mildly tricky to set up! Here is what I did.
