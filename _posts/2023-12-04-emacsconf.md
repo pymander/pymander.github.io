@@ -32,7 +32,7 @@ I do [a lot of writing in Emacs](/tags/writing), and I'm not the only one. [Jame
 
 I watched a talk about [Hyperbole](https://www.gnu.org/software/hyperbole/) again this year. This is an Emacs package that I would really love to figure out how to use, but it just doesn't integrate cleanly into my configuration nor my workflow. I tried it last year and got kind of annoyed at it. I gave it another try during [Rob Weiner's talk](https://emacsconf.org/2023/talks/hyperamp/), but this time I couldn't even get Hyperbole to properly set itself up. Anyhow, I gave up on it again. Until next year, Hyperbole!
 
-Now [Hyperdrive](https://ushin.org/hyperdrive/hyperdrive-manual.html), on the other hand, was something new and interesting. Joseph Turner and Protesilaos Stavrou gave a talk on [hyperdrive.el: Peer-to-peer filesystem in Emacs](https://emacsconf.org/2023/talks/hyperdrive/). I went to set it up, and /it just worked/. I was quickly able to share hyperdrive files and links with others. I am not sure yet what my use-case for Hyperdrive will be, but I look forward to watching this project develop.
+Now [Hyperdrive](https://ushin.org/hyperdrive/hyperdrive-manual.html), on the other hand, was something new and interesting. Joseph Turner and Protesilaos Stavrou gave a talk on [hyperdrive.el: Peer-to-peer filesystem in Emacs](https://emacsconf.org/2023/talks/hyperdrive/). Set up was extremely simple; /it just worked/. I was quickly able to share hyperdrive files and links with others. It remains to be seen what my use-case for Hyperdrive will be, but I look forward to watching this project develop.
 
 ## EMMS
 
