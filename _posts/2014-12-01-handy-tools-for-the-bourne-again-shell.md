@@ -37,7 +37,7 @@ Back when I worked for Yahoo!, my friend Bryan gave me a great directory stack f
 
 In addition to the handy new <code>go</code> command, it also includes <code>b</code> and <code>f</code> for moving backwards and forwards on the stack. It was inspired by <code>pushd</code> and <code>popd</code>, but it's so much more.
 
-<a href="http://arnesonium.com/wp-content/uploads/2014/11/sea_shell.jpg"><img src="http://arnesonium.com/wp-content/uploads/2014/11/sea_shell-300x211.jpg#left" alt="Not this kind of shell." width="300" height="211" class="size-medium wp-image-65" /></a>
+<a href="https://arnesonium.com/wp-content/uploads/2014/11/sea_shell.jpg"><img src="https://arnesonium.com/wp-content/uploads/2014/11/sea_shell-300x211.jpg#left" alt="Not this kind of shell." width="300" height="211" class="size-medium wp-image-65" /></a>
 
 If you'd like to check it out, take a look at my <a href="https://github.com/pymander/bashtools">bashtools repository on GitHub</a> or just <a href="https://github.com/pymander/bashtools/archive/v1.0.tar.gz" title="bashtools 1.0">download version 1.0</a>. I don't change it very often, but I'm thinking of hammering out a long-standing bug in the directory stack code.
 

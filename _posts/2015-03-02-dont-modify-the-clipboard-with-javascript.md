@@ -23,7 +23,7 @@ Recently, I was reading an article about a newly published book that I'm interes
 This sort of website behavior is not okay.
 <!--more-->
 
-<img src="http://arnesonium.com/wp-content/uploads/2015/02/3429454121_9a93f53855_o-300x200.jpg#right" alt="3429454121_9a93f53855_o" width="300" height="200" class="alignright size-medium wp-image-309" />
+<img src="https://arnesonium.com/wp-content/uploads/2015/02/3429454121_9a93f53855_o-300x200.jpg#right" alt="3429454121_9a93f53855_o" width="300" height="200" class="alignright size-medium wp-image-309" />
 
 I've seen the behavior on a number of websites, and it is among my least favorite trends in web development. The user is probably using his clipboard for one of two reasons. First, the website has a UX problem, and it has neglected to link to something important. Second, the user needs the text either for a quote, or to look up an unrelated term. For instance, this sentence has the word "bucolic" in it, and that's an uncommon word that you might want to look up. 
 

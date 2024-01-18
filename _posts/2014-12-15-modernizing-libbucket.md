@@ -18,11 +18,11 @@ tags:
 If you're here to learn about my experience in software development, you've probably poked around <a href="https://github.com/pymander">my GitHub page</a>. One the older projects on there is <a href="https://github.com/pymander/libbucket">libbucket</a>, a very fast dynamic string buffer library. I originally wrote it while working for Musician's Friend, and was given permission to release it as an open sourced library in 2005.
 <!--more-->
 
-<img src="http://arnesonium.com/wp-content/uploads/2014/11/bucket-303359_640-300x293.png#right" alt="Metaphorically similar to this kind of bucket." /> 
+<img src="https://arnesonium.com/wp-content/uploads/2014/11/bucket-303359_640-300x293.png#right" alt="Metaphorically similar to this kind of bucket." /> 
 
 Recently I decided to update the build system in the library, which was using an old version of autoconf and automake. I haven't worked with those tools in a number of years. They are solid and flexible, but they're also a confusing tangle of m4 macros and crazy shell scripts. Also, they change a lot.
 
-A few important things had changed. For instance, <code>aclocal</code> wanted to read from <code>configure.ac</code> instead of <code>configure.in</code>. In addition, the <code>AM_INIT_AUTOMAKE</code> macro was completely different, but the tool was nice enough to point me to <a href="http://www.gnu.org/software/automake/manual/automake.html#Modernize-AM_005fINIT_005fAUTOMAKE-invocation">the relevant part of the automake manual</a>.
+A few important things had changed. For instance, <code>aclocal</code> wanted to read from <code>configure.ac</code> instead of <code>configure.in</code>. In addition, the <code>AM_INIT_AUTOMAKE</code> macro was completely different, but the tool was nice enough to point me to <a href="https://www.gnu.org/software/automake/manual/automake.html#Modernize-AM_005fINIT_005fAUTOMAKE-invocation">the relevant part of the automake manual</a>.
 
 Building a library is also a little different now than it was in 2002. <a href="https://www.gnu.org/software/libtool/">GNU Libtool</a> is a great program for building dynamic and shared libraries correctly for Unix systems, but its usage is different now. Luckily, it spit out all of the information I needed to update things.
 
