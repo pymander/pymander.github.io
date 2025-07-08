@@ -45,7 +45,9 @@ I have a hotkey connected to [writeroom-mode](https://github.com/joostkremers/wr
 
 ## No Going Back
 
-I've been writing with Emacs for decades. It is my comfortable writing spot. I honestly cannot see myself abandoning it for another writing tool, because it works for me. I just used a couple of commands to check my two biggest writing repositories, and I have approximately 500,000 words written in org-mode between them. That's a commitment!
+I've been writing with Emacs for decades. It is my comfortable writing spot. I honestly cannot see myself abandoning it for another writing tool, because it works for me. I just used a couple of commands to check my three biggest writing repositories, and I have approximately 630,000 words written in org-mode between them. That's a commitment!
 
 I am aware that there are a lot of people out there using Emacs for writing, so I am excited to see what others share. I'm very pleased with Greg Newman's choice for this second writing topic.
+
+**Edit:** I realized that what I was calling my second biggest writing repository was actually my third biggest. I updated some numbers to reflect another 130,000 words of writing I found.
 
