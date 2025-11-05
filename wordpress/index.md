@@ -3,6 +3,8 @@ title: WordPress Services
 author: 'Erik Arneson'
 layout: page
 permalink: /wordpress/
+custom_js_offsite:
+    - 'https://www.google.com/recaptcha/api.js'
 ---
 
 I have over 25 years of web development experience, and over a decade of experience with WordPress. If your WordPress website is having trouble, I can fix it. Use the form at the bottom of the page to schedule a **free 15-minute consultation.**

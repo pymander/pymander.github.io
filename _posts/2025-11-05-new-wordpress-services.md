@@ -9,6 +9,8 @@ tags:
 - portland
 - web development
 - debugging
+custom_js_offsite:
+    - 'https://www.google.com/recaptcha/api.js'
 ---
 
 Your WordPress site is either making you money or costing you opportunities. I'm opening up my calendar for quick-turn projects—and offering **free site audits to new clients.**
