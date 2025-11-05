@@ -25,10 +25,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   in Portland, Oregon.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://arnesonium.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pymander
+#twitter_username: pymander
 github_username:  pymander
 linkedin_username: elarneson
-instagram_username: pymander
+#instagram_username: pymander
 
 # Build settings
 theme: minima
@@ -42,8 +42,8 @@ safe: false
 # Theme settings
 header_pages:
   - about.markdown
+  - wordpress/index.md
   - software-development.md
-  - information-security.md
   - writing.md
   - contact.md
 disqus:

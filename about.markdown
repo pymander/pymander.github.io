@@ -12,12 +12,11 @@ writing. I am based out of Portland, Oregon, and **I work remotely**.
 
 I am available for short-term software development and ongoing support for website maintenance.
 
-- **I specialize in WordPress maintenance** and plugin development. [Learn more.](/software-development/)
+- **I specialize in WordPress maintenance** and plugin development. [Learn more.](/wordpress/)
 
-For many years, I have been interested in **digital privacy and security**.
+With over 25 years of web development experience, I am also available for custom software development.
 
-- **I can help your small business be more secure.** I especially love helping very small LLCs and one-person businesses secure their
-  emails, websites, and files. [Learn more.](/information-security/)
+- **I can help automate your small business.** I love helping small businesses and 501(c)3 organizations thrive. [Learn more.](/software-development/)
 
 My rates for **non-profit organizations** are very reasonable.
 
