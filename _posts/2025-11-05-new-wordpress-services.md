@@ -30,7 +30,7 @@ I am also available for **monthly WordPress support retainers.**
 
 ## First-Time Client Special
 
-**Free 30-minute WordPress site audit (normally $200)**
+**Free 30-minute WordPress site audit (normally $75)**
 
 ### What you'll get:
 
