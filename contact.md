@@ -21,7 +21,7 @@ Phone: +1 (541) 291-9776
 
 ## Contact me by email
 
-My OpenPGP key can be <a href="https://bit.ly/2018ArnesonKey">downloaded here</a>. Like any responsible consultant, **I prefer encrypted communications.**
+My OpenPGP key can be <a href="https://bit.ly/2018ArnesonKey">downloaded here</a>.
 
 <!-- modify this form HTML and place wherever you want your form -->
 <form action="https://formspree.io/f/xjvzwrkp" method="POST">
