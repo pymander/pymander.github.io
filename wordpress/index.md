@@ -17,7 +17,7 @@ I have over 25 years of web development experience, and over a decade of experie
 - Database restoration
 - Plugin conflict resolution
 
-## 🔒 Security Hardening Package: $300-500
+## 🔒 Security Hardening Package: $250-450
 **(2-3 day turnaround)**
 
 - Security audit
@@ -26,7 +26,7 @@ I have over 25 years of web development experience, and over a decade of experie
 - SSL/HTTPS configuration
 - Login security improvements
 
-## ⚡ Speed Optimization: $400-700
+## ⚡ Speed Optimization: $350-700
 **(Get results in 3-5 days)**
 
 - Site speed optimization
@@ -34,15 +34,17 @@ I have over 25 years of web development experience, and over a decade of experie
 - Caching setup
 - Image optimization
 
-## 🛠️ Plugin Customization: Starting at $500
+## 🛠️ Plugin Customization: Starting at $400
 **(Timeline varies by complexity)**
 
 - Modify existing plugins to fit specific needs
 - Create simple custom plugins
 - WooCommerce customizations
 
-## 💼 Monthly Support Retainer: Starting at $250/month
+## 💼 Monthly Support Retainer: Starting at $100/month
 **(Ongoing maintenance and updates)**
+
+- Bring your own hosting solution or let me handle it!
 
 ## Custom Development: Let's talk about it!
 
