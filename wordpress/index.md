@@ -7,7 +7,7 @@ custom_js_offsite:
     - 'https://www.google.com/recaptcha/api.js'
 ---
 
-I have over 25 years of web development experience, and over a decade of experience with WordPress. If your WordPress website is having trouble, I can fix it. Use the form at the bottom of the page to schedule a **free 15-minute consultation.**
+I have over 25 years of web development experience, and over a decade of experience with WordPress. If your WordPress website is having trouble, I can fix it. Use the form at the bottom of the page to schedule a **free 30-minute consultation.**
 
 ## 🚨 WordPress Emergency Rescue: $800-1,500
 **(24-72 hour response)**
@@ -41,9 +41,10 @@ I have over 25 years of web development experience, and over a decade of experie
 - Create simple custom plugins
 - WooCommerce customizations
 
-## 💼 Monthly Support Retainer: Starting at $100/month
+## 💼 Monthly Support Retainer: Starting at $50/month
 **(Ongoing maintenance and updates)**
 
+- Managed WordPress hosting with regular maintenance and optional content updates.
 - Bring your own hosting solution or let me handle it!
 
 ## Custom Development: Let's talk about it!
@@ -68,7 +69,7 @@ Whatever your WordPress needs, contact me via this form and I'll schedule a free
 
 <div vocab="http://schema.org/" typeof="Person" style="display:none">
   <span property="name">Erik L. Arneson</span>
-  <span property="jobTitle">Internet Consultant</span>
+  <span property="jobTitle">WordPress Consultant</span>
   <div property="address"  typeof="PostalAddress">
     <span property="streetAddress">
       P.O. Box 42672
