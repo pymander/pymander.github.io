@@ -21,8 +21,7 @@
 title: Erik L. Arneson — Writer and Software Developer
 author: Erik L. Arneson
 description: >- # this means to ignore newlines until "baseurl:"
-  Erik L. Arneson is a freelance writer and software developer with
-  WordPress experience. He is located in Portland, Oregon.
+  Erik L. Arneson is a freelance writer and software developer with WordPress experience. He is located in Portland, Oregon.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://arnesonium.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: pymander
