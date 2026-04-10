@@ -141,3 +141,4 @@ communications, and projects. Without it, I'd be sunk!
 What Emacs tools are you using to manage your freelance business? I am always looking for ways to
 improve or streamline my process.
 
+*The featured image for this post comes from Agostino Ramelli's* Le diverse et artificiose machine *(1588). [Read more about it on the Public Domain Review.](https://publicdomainreview.org/collection/agostino-ramelli-theatre-of-machines/)*
