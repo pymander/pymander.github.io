@@ -3,6 +3,19 @@
 
 @import "minima";
 
+.page-content {
+    padding: {
+        top: 1rem;
+        bottom: 1rem;
+        right: 0px;
+        left: 0px;
+    }
+
+    h1.post-title {
+        margin-top: 1rem;
+    }
+}
+
 .site-header {
     background: {
         image: url('/assets/img/bruegel-tower-of-babel.jpg');
@@ -111,6 +124,11 @@ img[src*="#right"] {
         top: 15px;
         bottom: 15px;
     }
+}
+
+/* Featured image blocks */
+.post-header-image {
+    margin-bottom: 1em;
 }
 
 /* Table of contents */
