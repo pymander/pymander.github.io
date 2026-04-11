@@ -11,26 +11,32 @@ permalink: /software-development/
 <img src="/wp-content/uploads/2014/09/Eniac-300x229.jpg#right"
     alt="Eniac" width="300" height="229" class="alignright size-medium wp-image-152" />
 
-I have over 20 years of experience developing&nbsp;web applications. I've worked on some big-name projects in the past, but now the projects I love are small and short-term. I enjoy working with individuals and small companies to build web applications targeted at their needs. <strong>I&nbsp;can get your custom web application to market&nbsp;in just a matter of weeks.</strong>
+I have about 30 years of experience developing&nbsp;web applications. I've worked on some big-name projects in the past, but now the projects I love are small and short-term. I enjoy working with individuals and small companies to build web applications targeted at their needs. <strong>I&nbsp;can get your custom web application to market&nbsp;in just a matter of weeks.</strong>
 
-My experience with popular frameworks such as WordPress, Jekyll, and Zend Framework allows me to integrate exciting, cutting-edge features into my clients' software. These are some of the features I've developed and deployed in the past.
+My experience with popular frameworks such as [WordPress]({% link wordpress/index.md %}), Svelte, Jekyll, and Revel allows me to integrate exciting, cutting-edge features into my clients' software. These are some of the features I've developed and deployed in the past.
 
+ - Automated scholarship application checking and submission 
+ - Custom databases
  - Social media integration
  - Text message interface
  - Amazon Web Services integration
  - Custom PDF reports
- - WordPress plugins
+ - [WordPress plugins]({% link wordpress/index.md %})
  - Big Data management and analysis
  - Full private administrative interfaces
  - Public-facing pages matching existing styling
 
 To keep your website looking sharp, I work with top-notch, high quality web designers.
 
-<a title="Contact" href="/contact/">**Contact me today** and get your web application to market quickly.</a>
+[**Contact me today** and get your web application to market quickly.]({% link contact.md %} "Contact")
 
 ## Portfolio
 
-These are some of the projects I've completed for clients and for myself.
+These are some of the projects I've completed for clients and for myself. Please also check out my [GitHub page](https://github.com/pymander) and my [SourceHut page](https://sr.ht/~earneson/) for other projects I have worked on.
+
+### Hibiscus
+
+This is a fully-featured project management system for freelancers and small businesses specializing in digital asset delivery. While still in development, we plan to launch it in 2026. [Learn more about Hibiscus at our website.](https://gethibiscus.io/)
 
 ### Esoterika Lodge No. 227
 <img src="/assets/img/portfolio/esoterika-lodge-website.png" alt="Esoterika Lodge No. 227 website" width=300 height=150>
