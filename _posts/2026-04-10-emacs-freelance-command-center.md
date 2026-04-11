@@ -32,9 +32,9 @@ multiple clients' needs and expectations.
 ## Organization with org-mode
 
 It should be no surprise that at the center of my Emacs command center is [org-mode](https://orgmode.org/). I have already
-[written about it a lot](/tags/org-mode). Every org-mode user seems to have their own way of keeping track of things,
+[written about it a lot]({% link _tags/org-mode.md %}). Every org-mode user seems to have their own way of keeping track of things,
 so please don't take my organizational scheme as some kind of gospel. A couple of years ago, I wrote
-about [how I handle to-do lists in org-mode](/2024/10/todo-lists-in-org-mode), and I am still using that method for to-do keywords.
+about [how I handle to-do lists in org-mode]({% link _posts/2024-10-22-todo-lists.md %}), and I am still using that method for to-do keywords.
 However, file structure is also important. I have a number of core files.
 
 
@@ -86,12 +86,12 @@ time saver.
 I don't know what else to say about this, I use Emacs for doing all of my software development. I
 make sure to use [Eglot](https://github.com/joaotavora/eglot) whenever there is a language server available, and I try to leverage all the
 fancy features offered by Emacs whenever possible. The vast majority of projects for clients are PHP
-(thanks [WordPress](/wordpress)), Go, JavaScript, and TypeScript.
+(thanks [WordPress]({% link wordpress/index.md %})), Go, JavaScript, and TypeScript.
 
 
 ## Writing Words
 
-Previously, I have shared quite a bit about [writing in Emacs](/tags/writing/). I like to start everything in
+Previously, I have shared quite a bit about [writing in Emacs]({% link _tags/writing.md %}). I like to start everything in
 org-mode, but I also write quite a bit in Markdown. Emacs has become a powerful tool for writing. I
 use the [Harper language server](https://writewithharper.com/) along with Eglot to check grammar and spelling.
 
