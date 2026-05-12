@@ -47,6 +47,8 @@ I have over 25 years of web development experience, and over a decade of experie
 - Managed WordPress hosting with regular maintenance and optional content updates.
 - Bring your own hosting solution or let me handle it!
 
+Are you interested in [managed hosting for a Masonic lodge or organization](https://middlechambermedia.com/)? Please check out my work with [Middle Chamber Media](https://middlechambermedia.com/).
+
 ## Custom Development: Let's talk about it!
 
 Whatever your WordPress needs, contact me via this form and I'll schedule a free 15-minute consultation.
