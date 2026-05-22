@@ -6,14 +6,25 @@ author: 'Erik Arneson'
 layout: page
 guid: 'http://arnesonium.com/?page_id=4'
 permalink: /software-development/
+tags:
+- software-development
+- wordpress
+- golang
+- amazon-web-services
+- aws
+- google-cloud
+- cloud-computing
+- linux
+- programming
+- web-development
 ---
 
 <img src="/wp-content/uploads/2014/09/Eniac-300x229.jpg#right"
     alt="Eniac" width="300" height="229" class="alignright size-medium wp-image-152" />
 
-I have about 30 years of experience developing&nbsp;web applications. I've worked on some big-name projects in the past, but now the projects I love are small and short-term. I enjoy working with individuals and small companies to build web applications targeted at their needs. <strong>I&nbsp;can get your custom web application to market&nbsp;in just a matter of weeks.</strong>
+I have about 30 years of experience developing&nbsp;web applications. I've worked on some big-name projects in the past, but now the projects I love are small and short-term. I enjoy working with individuals and small companies to build web applications targeted at their needs. **I&nbsp;can get your custom web application to market&nbsp;quickly.**
 
-My experience with popular frameworks such as [WordPress]({% link wordpress/index.md %}), Svelte, Jekyll, and Revel allows me to integrate exciting, cutting-edge features into my clients' software. These are some of the features I've developed and deployed in the past.
+My experience with popular frameworks such as [WordPress]({% link wordpress/index.md %}), [Svelte]({% link _tags/svelte.md %}), Jekyll, and Revel allows me to integrate exciting, cutting-edge features into my clients' software. These are some of the features I've developed and deployed in the past.
 
  - Automated scholarship application checking and submission 
  - Custom databases
@@ -23,7 +34,7 @@ My experience with popular frameworks such as [WordPress]({% link wordpress/inde
  - Custom PDF reports
  - [WordPress plugins]({% link wordpress/index.md %})
  - Big Data management and analysis
- - Full private administrative interfaces
+ - [Full private administrative interfaces]({% link _posts/2026-05-22-sref.md %})
  - Public-facing pages matching existing styling
 
 To keep your website looking sharp, I work with top-notch, high quality web designers.
@@ -38,10 +49,14 @@ These are some of the projects I've completed for clients and for myself. Please
 
 This is a fully-featured project management system for freelancers and small businesses specializing in digital asset delivery. While still in development, we plan to launch it in 2026. [Learn more about Hibiscus at our website.](https://gethibiscus.io/)
 
+### Oregon Scottish Rite Education Foundation
+
+From 2024 to 2026, I helped the [Oregon Scottish Rite Education Foundation](https://orsrscholarships.com/) [automate their student scholarship application submission process]({% link _posts/2026-05-22-sref.md %}). It was very satisfying work, and I invite you to [read about our process and success]({% link _posts/2026-05-22-sref.md %}).
+
 ### Esoterika Lodge No. 227
 <img src="/assets/img/portfolio/esoterika-lodge-website.png" alt="Esoterika Lodge No. 227 website" width=300 height=150>
 
-This is a Jekyll website with a custom responsive theme, faithfully translated and updated from a hand-coded 2009 website. [You can view it here.](https://esoterika227.com)
+This was originally a Jekyll website with a custom responsive theme, faithfully translated and updated from a hand-coded 2009 website. It is now a WordPress website hosted by [Middle Chamber Media](https://middlechambermedia.com/), a web-hosting company I help run. [You can view it here.](https://esoterika227.com)
 
 ### TweetBook
 <a href="/2015/04/create-a-document-from-twitter-with-tweetbook/"><img src="/wp-content/uploads/2015/04/Screenshot-from-2015-04-01-102456-300x86.png" alt="TweetBook snapshot" width="300" height="86" class="aligncenter size-medium wp-image-318" /></a>
