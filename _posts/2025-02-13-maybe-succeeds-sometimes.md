@@ -32,6 +32,12 @@ of the time.
 0 0 * * 0     maybe -chance 40 && do-something.sh
 ```
 
+You can get started with `maybe` by installing it from your terminal:
+
+```bash
+go install github.com/pymander/maybe@latest
+```
+
 ## The Future of maybe
 
 I don't think I will stop at version 1.0.0. I have already considered what may happen to `maybe` in
