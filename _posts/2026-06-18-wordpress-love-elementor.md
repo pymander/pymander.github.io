@@ -25,6 +25,10 @@ either a child theme approach or starting from a bare-bones theme and building f
 has worked quite well, and though it can produce a robust and speedy website, it can result in
 maintenance challenges in the long-run.
 
+{% figure caption:"An animated logo that I created for Middle Chamber Media, rendered as an animated GIF." %}
+![An animated logo for Middle Chamber Media](/assets/img/MiddleChamberMedia-Logo-v1.gif)
+{% endfigure %}
+
 However, with Middle Chamber Media, we were suddenly faced with the process of managing and
 deploying a large number of WordPress sites, and there are just a couple of us working on it.
 Currently, our process involves my partner doing most of the theme development and website setup,

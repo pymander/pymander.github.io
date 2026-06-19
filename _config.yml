@@ -34,9 +34,14 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginator
+  - jekyll-figure
 paginate: 10
 highlighter: rouge
 safe: false
+
+# Plugin settings
+jekyll-figure:
+  paragraphs: false
 
 # Theme settings
 header_pages:
@@ -52,8 +57,10 @@ excerpt_separator: <!--more-->
 #google_analytics: UA-5539168-7
 google_analytics: G-4VKRLBFHGX
 
-# SEO configuration - see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-twitter:
+# SEO configuration - see
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+logo: /assets/img/arnesonium-logo.png
+Twitter:
   username: pymander
   card: summary
 social:
@@ -61,6 +68,7 @@ social:
   links:
     - https://twitter.com/pymander
     - https://www.linkedin.com/in/elarneson/
+    - https://fosstodon.org/pymander
 
 # Related posts - see https://github.com/jsware/jekyll-related-posts
 related_by: tags or categories # Match on categories OR tags

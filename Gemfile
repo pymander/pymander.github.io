@@ -21,6 +21,7 @@ group :jekyll_plugins do
   gem "jekyll-paginator"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
+  gem "jekyll-figure"
 end
 
 # Syntax highlighting

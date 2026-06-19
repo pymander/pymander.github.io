@@ -75,6 +75,7 @@ GEM
       webrick (~> 1.7)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-figure (0.2.0)
     jekyll-paginator (0.1.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
@@ -170,6 +171,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3)
   jekyll-feed
+  jekyll-figure
   jekyll-paginator
   jekyll-seo-tag
   jekyll-sitemap
@@ -212,6 +214,7 @@ CHECKSUMS
   i18n (1.15.1) sha256=505ec5de1f4e6c8a2cb028ef9700ca495f117911643455721dee5abdca797255
   jekyll (4.4.1) sha256=4c1144d857a5b2b80d45b8cf5138289579a9f8136aadfa6dd684b31fe2bc18c1
   jekyll-feed (0.17.0) sha256=689aab16c877949bb9e7a5c436de6278318a51ecb974792232fd94d8b3acfcc3
+  jekyll-figure (0.2.0) sha256=5493eed2440c064fa47f4ffe9a2665aeefc226d9c49939e8f7678cac2206a2e1
   jekyll-paginator (0.1.0) sha256=167ba5291635c4fbef706a1e020bf6d671b2cc0527a8d090547fe7475d3ce243
   jekyll-sass-converter (3.1.0) sha256=83925d84f1d134410c11d0c6643b0093e82e3a3cf127e90757a85294a3862443
   jekyll-seo-tag (2.9.0) sha256=0260015a8e1df9bf195cdfb0c675b7b2883fd8cbf12556e1c1cbe36a831c6852
