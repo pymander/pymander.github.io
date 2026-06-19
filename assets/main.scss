@@ -33,14 +33,13 @@
             weight: bold;
             size: 2.5em;
         }
-        -webkit-text-stroke-width: 1px;
-        -webkit-text-stroke-color: $grey-color-dark;
+        text-shadow: -1px -1px 0 $grey-color-dark, 1px -1px 0 $grey-color-dark, -1px 1px 0 $grey-color-dark, 1px 1px 0 $grey-color-dark;
     }
 
     .site-nav {
         padding: {
-            left: 0.5em;
-            right: 0.5em;
+            left: 2em;
+            right: 2em;
         }
 
         margin: {
@@ -68,6 +67,11 @@ img[src*="#right"] {
         float: right;
         padding-left: 15px;
     }
+}
+
+figcaption {
+    font-style: italic;
+    color: #707070;
 }
 
 /* Pagination block */
@@ -116,7 +120,7 @@ img[src*="#right"] {
     border: {
         style: solid;
         width: 1px;
-        radius: 2px;
+        radius: 5px;
         color: darken($grey-color-light, 15%);
     }
     background: $grey-color-light;
