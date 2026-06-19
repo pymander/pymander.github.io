@@ -35,6 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginator
   - jekyll-figure
+  - jekyll-sitemap
 paginate: 10
 highlighter: rouge
 safe: false
